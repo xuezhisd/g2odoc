@@ -1,0 +1,12 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/stuff/opengl_wrapper.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/stuff/opengl_wrapper.h">
+<area shape="rect" id="node2" href="$run__g2o__viewer_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/apps/g2o_viewer\l/run_g2o_viewer.cpp" alt="" coords="5,102,205,158"/>
+<area shape="rect" id="node3" href="$opengl__primitives_8h.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/stuff/opengl_primitives.h" alt="" coords="229,109,448,151"/>
+<area shape="rect" id="node6" href="$deprecated_2slam3d_2edge__se3__pointxyz__disparity_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/types/deprecated\l/slam3d/edge_se3_pointxyz\l_disparity.cpp" alt="" coords="472,95,672,165"/>
+<area shape="rect" id="node7" href="$deprecated_2slam3d_2parameter__camera_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/types/deprecated\l/slam3d/parameter_camera.cpp" alt="" coords="696,102,901,158"/>
+<area shape="rect" id="node8" href="$deprecated_2slam3d_2parameter__se3__offset_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/types/deprecated\l/slam3d/parameter_se3_offset.cpp" alt="" coords="926,102,1149,158"/>
+<area shape="rect" id="node9" href="$deprecated_2slam3d_2vertex__pointxyz_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/types/deprecated\l/slam3d/vertex_pointxyz.cpp" alt="" coords="1172,102,1372,158"/>
+<area shape="rect" id="node10" href="$edge__se3__plane__calib_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/types/slam3d_addons\l/edge_se3_plane_calib.cpp" alt="" coords="1396,102,1599,158"/>
+<area shape="rect" id="node11" href="$vertex__plane_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/types/slam3d_addons\l/vertex_plane.cpp" alt="" coords="1623,102,1825,158"/>
+<area shape="rect" id="node4" href="$g2o__qglviewer_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/apps/g2o_viewer\l/g2o_qglviewer.cpp" alt="" coords="119,213,319,269"/>
+<area shape="rect" id="node5" href="$opengl__primitives_8cpp.html" title="/home/xuezhisd/CLionProjects\l/g2o/g2o/stuff/opengl_primitives.cpp" alt="" coords="343,221,575,262"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/types/deprecated/slam3d/vertex_pointxyz.cpp" name="/home/xuezhisd/CLionProjects/g2o/g2o/types/deprecated/slam3d/vertex_pointxyz.cpp">
+<area shape="rect" id="node2" href="$deprecated_2slam3d_2vertex__pointxyz_8h.html" title="vertex_pointxyz.h" alt="" coords="1239,109,1364,136"/>
+<area shape="rect" id="node42" href="$opengl__wrapper_8h.html" title="g2o/stuff/opengl_wrapper.h" alt="" coords="80,191,259,218"/>
+<area shape="rect" id="node3" href="$base__vertex_8h.html" title="g2o/core/base_vertex.h" alt="" coords="494,191,653,218"/>
+<area shape="rect" id="node35" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="1239,273,1385,315"/>
+<area shape="rect" id="node41" href="$g2o__deprecated__types__slam3d__api_8h.html" title="g2o_deprecated_types\l_slam3d_api.h" alt="" coords="1713,184,1866,225"/>
+<area shape="rect" id="node4" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="692,281,831,307"/>
+<area shape="rect" id="node28" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="1985,512,2116,539"/>
+<area shape="rect" id="node30" href="$creators_8h.html" title="creators.h" alt="" coords="979,281,1059,307"/>
+<area shape="rect" id="node34" href="$base__vertex_8hpp.html" title="base_vertex.hpp" alt="" coords="465,281,583,307"/>
+<area shape="rect" id="node11" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="155,437,277,464"/>
+<area shape="rect" id="node14" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="747,437,851,464"/>
+<area shape="rect" id="node20" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="407,512,518,539"/>
+<area shape="rect" id="node21" href="$parameter_8h.html" title="parameter.h" alt="" coords="976,363,1067,389"/>
+<area shape="rect" id="node23" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="1382,363,1533,389"/>
+<area shape="rect" id="node25" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="351,363,502,389"/>
+<area shape="rect" id="node36" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="1710,363,1845,389"/>
+<area shape="rect" id="node38" href="$string__tools_8h.html" title="string_tools.h" alt="" coords="1811,437,1911,464"/>
+<area shape="rect" id="node40" href="$g2o__stuff__api_8h.html" title="g2o_stuff_api.h" alt="" coords="1673,512,1783,539"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node2" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="175,5,329,32"/>
+<area shape="rect" id="node3" href="$classg2o_1_1SparseOptimizer.html" title="g2o::SparseOptimizer" alt="" coords="377,5,525,32"/>
+<area shape="rect" id="node4" href="$classg2o_1_1SparseOptimizerOnline.html" title="g2o::SparseOptimizerOnline" alt="" coords="573,5,759,32"/>
+<area shape="rect" id="node5" href="$classg2o_1_1SparseOptimizerIncremental.html" title="g2o::SparseOptimizerIncremental" alt="" coords="807,5,1023,32"/>
+</map>

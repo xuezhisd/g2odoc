@@ -1,0 +1,24 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/core/block_solver.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/core/block_solver.h">
+<area shape="rect" id="node3" href="$solver_8h.html" title="solver.h" alt="" coords="1295,244,1363,271"/>
+<area shape="rect" id="node17" href="$sparse__block__matrix_8h.html" title="sparse_block_matrix.h" alt="" coords="782,319,935,345"/>
+<area shape="rect" id="node24" href="$linear__solver_8h.html" title="linear_solver.h" alt="" coords="715,244,821,271"/>
+<area shape="rect" id="node25" href="$sparse__block__matrix__diagonal_8h.html" title="sparse_block_matrix\l_diagonal.h" alt="" coords="115,393,258,435"/>
+<area shape="rect" id="node27" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="1581,319,1704,345"/>
+<area shape="rect" id="node28" href="$block__solver_8hpp.html" title="block_solver.hpp" alt="" coords="2485,95,2605,121"/>
+<area shape="rect" id="node4" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="2035,401,2139,427"/>
+<area shape="rect" id="node13" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="1710,483,1821,509"/>
+<area shape="rect" id="node15" href="$batch__stats_8h.html" title="batch_stats.h" alt="" coords="1405,319,1507,345"/>
+<area shape="rect" id="node20" href="$sparse__block__matrix__ccs_8h.html" title="sparse_block_matrix\l_ccs.h" alt="" coords="385,393,527,435"/>
+<area shape="rect" id="node21" href="$matrix__operations_8h.html" title="matrix_operations.h" alt="" coords="195,483,331,509"/>
+<area shape="rect" id="node22" href="$matrix__structure_8h.html" title="matrix_structure.h" alt="" coords="897,401,1023,427"/>
+<area shape="rect" id="node23" href="$sparse__block__matrix_8hpp.html" title="sparse_block_matrix.hpp" alt="" coords="603,401,770,427"/>
+<area shape="rect" id="node29" href="$sparse__optimizer_8h.html" title="sparse_optimizer.h" alt="" coords="2202,169,2334,196"/>
+<area shape="rect" id="node30" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="3007,319,3137,345"/>
+<area shape="rect" id="node42" href="$timeutil_8h.html" title="utility functions for handling time related stuff " alt="" coords="2852,319,2983,345"/>
+<area shape="rect" id="node45" href="$misc_8h.html" title="some general case utility functions " alt="" coords="2918,244,3034,271"/>
+<area shape="rect" id="node32" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="2199,244,2337,271"/>
+<area shape="rect" id="node36" href="$parameter_8h.html" title="parameter.h" alt="" coords="2223,319,2313,345"/>
+<area shape="rect" id="node38" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="2543,319,2694,345"/>
+<area shape="rect" id="node40" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="1839,319,1990,345"/>
+<area shape="rect" id="node44" href="$g2o__stuff__api_8h.html" title="g2o_stuff_api.h" alt="" coords="2653,483,2763,509"/>
+</map>

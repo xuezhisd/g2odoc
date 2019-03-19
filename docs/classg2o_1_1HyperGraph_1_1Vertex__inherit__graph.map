@@ -1,0 +1,50 @@
+<map id="g2o::HyperGraph::Vertex" name="g2o::HyperGraph::Vertex">
+<area shape="rect" id="node3" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="467,797,621,839"/>
+<area shape="rect" id="node2" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,797,204,839"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 1,\l double \&gt;" alt="" coords="685,5,827,47"/>
+<area shape="rect" id="node6" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 2,\l Eigen::Vector2d \&gt;" alt="" coords="685,80,827,121"/>
+<area shape="rect" id="node8" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 2,\l Line2D \&gt;" alt="" coords="685,163,827,204"/>
+<area shape="rect" id="node10" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 2,\l Vector2D \&gt;" alt="" coords="685,264,827,305"/>
+<area shape="rect" id="node12" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Eigen::Vector3d \&gt;" alt="" coords="685,401,827,443"/>
+<area shape="rect" id="node19" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Plane3D \&gt;" alt="" coords="685,524,827,565"/>
+<area shape="rect" id="node21" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l SE2 \&gt;" alt="" coords="685,608,827,649"/>
+<area shape="rect" id="node25" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Vector3D \&gt;" alt="" coords="685,689,827,731"/>
+<area shape="rect" id="node29" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 4,\l Eigen::Matrix\&lt; double,\l 5, 1, Eigen::ColMajor \&gt; \&gt;" alt="" coords="669,754,843,810"/>
+<area shape="rect" id="node31" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 4,\l Vector4D \&gt;" alt="" coords="685,833,827,875"/>
+<area shape="rect" id="node33" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Isometry3D \&gt;" alt="" coords="685,899,827,940"/>
+<area shape="rect" id="node36" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Line3D \&gt;" alt="" coords="685,964,827,1005"/>
+<area shape="rect" id="node38" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l SBACam \&gt;" alt="" coords="685,1029,827,1071"/>
+<area shape="rect" id="node40" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l SE3Quat \&gt;" alt="" coords="685,1095,827,1136"/>
+<area shape="rect" id="node43" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Vector6d \&gt;" alt="" coords="685,1160,827,1201"/>
+<area shape="rect" id="node45" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 7,\l Sim3 \&gt;" alt="" coords="685,1225,827,1267"/>
+<area shape="rect" id="node47" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 9,\l Eigen::VectorXd \&gt;" alt="" coords="685,1291,827,1332"/>
+<area shape="rect" id="node49" href="$classg2o_1_1BaseVertex.html" title="Templatized BaseVertex. " alt="" coords="671,1357,841,1383"/>
+<area shape="rect" id="node5" href="$classVertexBaseline.html" title="VertexBaseline" alt="" coords="944,7,1055,34"/>
+<area shape="rect" id="node7" href="$classg2o_1_1tutorial_1_1VertexPointXY.html" title="g2o::tutorial::VertexPointXY" alt="" coords="907,58,1091,85"/>
+<area shape="rect" id="node9" href="$classg2o_1_1VertexLine2D.html" title="g2o::VertexLine2D" alt="" coords="934,109,1065,135"/>
+<area shape="rect" id="node11" href="$classg2o_1_1VertexPointXY.html" title="g2o::VertexPointXY" alt="" coords="931,159,1068,186"/>
+<area shape="rect" id="node13" href="$classg2o_1_1deprecated_1_1VertexPointXYZ.html" title="g2o::deprecated::VertexPointXYZ" alt="" coords="891,210,1108,237"/>
+<area shape="rect" id="node14" href="$classVertexCircle.html" title="a circle located at x,y with radius r " alt="" coords="952,261,1047,287"/>
+<area shape="rect" id="node15" href="$classVertexParams.html" title="the params, a, b, and lambda for a * exp(&#45;lambda * t) + b " alt="" coords="947,311,1052,338"/>
+<area shape="rect" id="node16" href="$classVertexPointBAL.html" title="3D world feature " alt="" coords="942,362,1057,389"/>
+<area shape="rect" id="node17" href="$classVertexPosition3D.html" title="VertexPosition3D" alt="" coords="937,413,1061,439"/>
+<area shape="rect" id="node18" href="$classVertexVelocity3D.html" title="VertexVelocity3D" alt="" coords="937,463,1061,490"/>
+<area shape="rect" id="node20" href="$classg2o_1_1VertexPlane.html" title="g2o::VertexPlane" alt="" coords="938,514,1061,541"/>
+<area shape="rect" id="node22" href="$classg2o_1_1tutorial_1_1VertexSE2.html" title="2D pose Vertex, (x,y,theta) " alt="" coords="919,565,1080,591"/>
+<area shape="rect" id="node23" href="$classg2o_1_1VertexSE2.html" title="2D pose Vertex, (x,y,theta) " alt="" coords="942,615,1057,642"/>
+<area shape="rect" id="node24" href="$classg2o_1_1OnlineVertexSE2.html" title="g2o::OnlineVertexSE2" alt="" coords="1156,615,1307,642"/>
+<area shape="rect" id="node26" href="$classg2o_1_1VertexOdomDifferentialParams.html" title="g2o::VertexOdomDifferential\lParams" alt="" coords="906,667,1093,708"/>
+<area shape="rect" id="node27" href="$classg2o_1_1VertexPointXYZ.html" title="Vertex for a tracked point in space. " alt="" coords="927,733,1072,759"/>
+<area shape="rect" id="node28" href="$classg2o_1_1VertexSBAPointXYZ.html" title="Point vertex, XYZ. " alt="" coords="913,783,1085,810"/>
+<area shape="rect" id="node30" href="$classg2o_1_1VertexIntrinsics.html" title="Vertex encoding the intrinsics of the camera fx, fy, cx, xy, baseline;. " alt="" coords="928,834,1071,861"/>
+<area shape="rect" id="node32" href="$classg2o_1_1VertexSegment2D.html" title="g2o::VertexSegment2D" alt="" coords="920,885,1079,911"/>
+<area shape="rect" id="node34" href="$classg2o_1_1VertexSE3.html" title="3D pose Vertex, represented as an Isometry3D " alt="" coords="942,935,1057,962"/>
+<area shape="rect" id="node35" href="$classg2o_1_1OnlineVertexSE3.html" title="g2o::OnlineVertexSE3" alt="" coords="1156,935,1307,962"/>
+<area shape="rect" id="node37" href="$classg2o_1_1VertexLine3D.html" title="g2o::VertexLine3D" alt="" coords="934,986,1065,1013"/>
+<area shape="rect" id="node39" href="$classg2o_1_1VertexCam.html" title="SBACam Vertex, (x,y,z,qw,qx,qy,qz) the parameterization for the increments constructed is a 6d vector..." alt="" coords="941,1037,1058,1063"/>
+<area shape="rect" id="node41" href="$classg2o_1_1deprecated_1_1VertexSE3.html" title="3D pose Vertex, (x,y,z,qw,qx,qy,qz) the parameterization for the increments constructed is a 6d vecto..." alt="" coords="906,1087,1093,1114"/>
+<area shape="rect" id="node42" href="$classg2o_1_1VertexSE3Expmap.html" title="SE3 Vertex parameterized internally with a transformation matrix and externally with its exponential ..." alt="" coords="918,1138,1081,1165"/>
+<area shape="rect" id="node44" href="$classVertexPositionVelocity3D.html" title="VertexPositionVelocity3D" alt="" coords="914,1189,1085,1215"/>
+<area shape="rect" id="node46" href="$classg2o_1_1VertexSim3Expmap.html" title="Sim3 Vertex, (x,y,z,qw,qx,qy,qz) the parameterization for the increments constructed is a 7d vector (..." alt="" coords="916,1239,1083,1266"/>
+<area shape="rect" id="node48" href="$classVertexCameraBAL.html" title="camera vertex which stores the parameters for a pinhole camera " alt="" coords="934,1298,1065,1325"/>
+</map>

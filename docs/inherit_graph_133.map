@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSlamParser_1_1AbstractSlamInterface.html" title="interface for communicating with the SLAM algorithm " alt="" coords="5,23,183,65"/>
+<area shape="rect" id="node2" href="$classExampleSlamInterface.html" title="example for an interface to a SLAM algorithm " alt="" coords="231,5,386,32"/>
+<area shape="rect" id="node3" href="$classg2o_1_1G2oSlamInterface.html" title="g2o::G2oSlamInterface" alt="" coords="231,56,387,83"/>
+</map>

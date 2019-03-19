@@ -1,0 +1,6 @@
+<map id="g2o::ParameterCamera" name="g2o::ParameterCamera">
+<area shape="rect" id="node5" href="$classg2o_1_1ParameterStereoCamera.html" title="parameters for a camera " alt="" coords="7,319,202,345"/>
+<area shape="rect" id="node2" href="$classg2o_1_1ParameterSE3Offset.html" title="offset for an SE3 " alt="" coords="19,169,191,196"/>
+<area shape="rect" id="node3" href="$classg2o_1_1Parameter.html" title="g2o::Parameter" alt="" coords="49,95,160,121"/>
+<area shape="rect" id="node4" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,5,204,47"/>
+</map>

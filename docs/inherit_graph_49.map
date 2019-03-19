@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structg2o_1_1HyperDijkstra_1_1TreeAction.html" title="g2o::HyperDijkstra\l::TreeAction" alt="" coords="5,23,136,65"/>
+<area shape="rect" id="node2" href="$structg2o_1_1BackBoneTreeAction.html" title="g2o::BackBoneTreeAction" alt="" coords="184,5,359,32"/>
+<area shape="rect" id="node3" href="$classg2o_1_1ThetaTreeAction.html" title="compute the initial guess of theta while travelling along the MST " alt="" coords="198,56,345,83"/>
+</map>

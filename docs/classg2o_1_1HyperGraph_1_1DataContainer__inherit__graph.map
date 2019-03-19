@@ -1,0 +1,50 @@
+<map id="g2o::HyperGraph::DataContainer" name="g2o::HyperGraph::DataContainer">
+<area shape="rect" id="node2" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="267,802,421,843"/>
+<area shape="rect" id="node31" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="267,1887,421,1929"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, double \&gt;" alt="" coords="485,140,675,167"/>
+<area shape="rect" id="node7" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, EdgeGICP \&gt;" alt="" coords="472,271,688,297"/>
+<area shape="rect" id="node9" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Eigen\l::Vector2d \&gt;" alt="" coords="493,333,667,374"/>
+<area shape="rect" id="node13" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Eigen\l::Vector3d \&gt;" alt="" coords="493,398,667,439"/>
+<area shape="rect" id="node14" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Isometry3D \&gt;" alt="" coords="469,464,691,491"/>
+<area shape="rect" id="node15" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Line2D \&gt;" alt="" coords="483,515,677,541"/>
+<area shape="rect" id="node16" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, OdomAnd\lLaserMotion \&gt;" alt="" coords="481,566,679,607"/>
+<area shape="rect" id="node17" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Plane3D \&gt;" alt="" coords="479,632,681,659"/>
+<area shape="rect" id="node18" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, SE2 \&gt;" alt="" coords="491,683,669,709"/>
+<area shape="rect" id="node19" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, SE3Quat \&gt;" alt="" coords="477,733,683,760"/>
+<area shape="rect" id="node20" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Sim3 \&gt;" alt="" coords="489,784,671,811"/>
+<area shape="rect" id="node21" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector2d \&gt;" alt="" coords="477,835,683,861"/>
+<area shape="rect" id="node22" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector2D \&gt;" alt="" coords="476,885,684,912"/>
+<area shape="rect" id="node23" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector3D \&gt;" alt="" coords="476,936,684,963"/>
+<area shape="rect" id="node24" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector4D \&gt;" alt="" coords="476,987,684,1013"/>
+<area shape="rect" id="node25" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector6d \&gt;" alt="" coords="477,1037,683,1064"/>
+<area shape="rect" id="node26" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector7d \&gt;" alt="" coords="477,1088,683,1115"/>
+<area shape="rect" id="node27" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, VectorXD \&gt;" alt="" coords="475,1139,685,1165"/>
+<area shape="rect" id="node28" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Velocity\lMeasurement \&gt;" alt="" coords="486,1190,674,1231"/>
+<area shape="rect" id="node29" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, E \&gt;" alt="" coords="499,1256,661,1283"/>
+<area shape="rect" id="node30" href="$classg2o_1_1BaseEdge_3-1_00_01E_01_4.html" title="g2o::BaseEdge\&lt;&#45;1, E \&gt;" alt="" coords="501,1307,659,1333"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 1, double, VertexCam,\l VertexCam \&gt;" alt="" coords="753,5,919,61"/>
+<area shape="rect" id="node5" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 1, double, VertexLine2D,\l VertexPointXY \&gt;" alt="" coords="747,85,925,141"/>
+<area shape="rect" id="node6" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 1, double, VertexSE2,\l VertexPointXY \&gt;" alt="" coords="755,165,917,221"/>
+<area shape="rect" id="node8" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 3, EdgeGICP, VertexSE3,\l VertexSE3 \&gt;" alt="" coords="743,245,929,301"/>
+<area shape="rect" id="node10" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 2, Eigen::Vector2d,\l VertexSE2, VertexPointXY \&gt;" alt="" coords="739,325,933,381"/>
+<area shape="rect" id="node11" href="$classg2o_1_1BaseUnaryEdge.html" title="g2o::BaseUnaryEdge\l\&lt; 1, Eigen::Vector2d,\l VertexCircle \&gt;" alt="" coords="763,405,909,461"/>
+<area shape="rect" id="node12" href="$classg2o_1_1BaseUnaryEdge.html" title="g2o::BaseUnaryEdge\l\&lt; 1, Eigen::Vector2d,\l VertexParams \&gt;" alt="" coords="763,485,909,541"/>
+<area shape="rect" id="node32" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 1,\l double \&gt;" alt="" coords="509,1358,651,1399"/>
+<area shape="rect" id="node33" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 2,\l Eigen::Vector2d \&gt;" alt="" coords="509,1423,651,1465"/>
+<area shape="rect" id="node34" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 2,\l Line2D \&gt;" alt="" coords="509,1489,651,1530"/>
+<area shape="rect" id="node35" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 2,\l Vector2D \&gt;" alt="" coords="509,1554,651,1595"/>
+<area shape="rect" id="node36" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Eigen::Vector3d \&gt;" alt="" coords="509,1619,651,1661"/>
+<area shape="rect" id="node37" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Plane3D \&gt;" alt="" coords="509,1685,651,1726"/>
+<area shape="rect" id="node38" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l SE2 \&gt;" alt="" coords="509,1750,651,1791"/>
+<area shape="rect" id="node39" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Vector3D \&gt;" alt="" coords="509,1815,651,1857"/>
+<area shape="rect" id="node40" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 4,\l Eigen::Matrix\&lt; double,\l 5, 1, Eigen::ColMajor \&gt; \&gt;" alt="" coords="493,1880,667,1936"/>
+<area shape="rect" id="node41" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 4,\l Vector4D \&gt;" alt="" coords="509,1959,651,2001"/>
+<area shape="rect" id="node42" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Isometry3D \&gt;" alt="" coords="509,2025,651,2066"/>
+<area shape="rect" id="node43" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Line3D \&gt;" alt="" coords="509,2090,651,2131"/>
+<area shape="rect" id="node44" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l SBACam \&gt;" alt="" coords="509,2155,651,2197"/>
+<area shape="rect" id="node45" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l SE3Quat \&gt;" alt="" coords="509,2221,651,2262"/>
+<area shape="rect" id="node46" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Vector6d \&gt;" alt="" coords="509,2286,651,2327"/>
+<area shape="rect" id="node47" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 7,\l Sim3 \&gt;" alt="" coords="509,2351,651,2393"/>
+<area shape="rect" id="node48" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 9,\l Eigen::VectorXd \&gt;" alt="" coords="509,2417,651,2458"/>
+<area shape="rect" id="node49" href="$classg2o_1_1BaseVertex.html" title="Templatized BaseVertex. " alt="" coords="495,2483,665,2509"/>
+</map>

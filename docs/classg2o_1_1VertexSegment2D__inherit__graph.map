@@ -1,0 +1,7 @@
+<map id="g2o::VertexSegment2D" name="g2o::VertexSegment2D">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 4,\l Vector4D \&gt;" alt="" coords="140,259,283,300"/>
+<area shape="rect" id="node3" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="134,169,289,211"/>
+<area shape="rect" id="node4" href="$classg2o_1_1HyperGraph_1_1Vertex.html" title="abstract Vertex, your types must derive from that one " alt="" coords="21,95,188,121"/>
+<area shape="rect" id="node5" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="213,95,426,121"/>
+</map>

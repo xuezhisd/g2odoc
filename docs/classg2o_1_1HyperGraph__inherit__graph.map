@@ -1,0 +1,6 @@
+<map id="g2o::HyperGraph" name="g2o::HyperGraph">
+<area shape="rect" id="node2" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="36,80,191,107"/>
+<area shape="rect" id="node3" href="$classg2o_1_1SparseOptimizer.html" title="g2o::SparseOptimizer" alt="" coords="39,155,187,181"/>
+<area shape="rect" id="node4" href="$classg2o_1_1SparseOptimizerOnline.html" title="g2o::SparseOptimizerOnline" alt="" coords="21,229,206,256"/>
+<area shape="rect" id="node5" href="$classg2o_1_1SparseOptimizerIncremental.html" title="g2o::SparseOptimizerIncremental" alt="" coords="5,304,221,331"/>
+</map>

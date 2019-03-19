@@ -1,0 +1,10 @@
+<map id="g2o::BlockSolverBase" name="g2o::BlockSolverBase">
+<area shape="rect" id="node2" href="$classg2o_1_1Solver.html" title="Generic interface for a sparse solver operating on a graph which solves one iteration of the lineariz..." alt="" coords="327,351,415,377"/>
+<area shape="rect" id="node3" href="$classg2o_1_1SparseOptimizer.html" title="g2o::SparseOptimizer" alt="" coords="201,261,349,288"/>
+<area shape="rect" id="node9" href="$classg2o_1_1OptimizationAlgorithm.html" title="Generic interface for a non&#45;linear solver operating on a graph. " alt="" coords="89,351,268,377"/>
+<area shape="rect" id="node4" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="197,178,352,205"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="45,81,166,108"/>
+<area shape="rect" id="node6" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="190,81,359,108"/>
+<area shape="rect" id="node7" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="383,81,550,108"/>
+<area shape="rect" id="node10" href="$classg2o_1_1PropertyMap.html" title="a collection of properties mapping from name to the property itself " alt="" coords="16,261,141,288"/>
+</map>

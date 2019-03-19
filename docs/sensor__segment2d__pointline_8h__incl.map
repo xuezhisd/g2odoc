@@ -1,0 +1,47 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/apps/g2o_simulator/sensor_segment2d_pointline.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/apps/g2o_simulator/sensor_segment2d_pointline.h">
+<area shape="rect" id="node2" href="$simulator2d_8h.html" title="simulator2d.h" alt="" coords="3814,109,3914,136"/>
+<area shape="rect" id="node29" href="$types__slam2d__addons_8h.html" title="g2o/types/slam2d_addons\l/types_slam2d_addons.h" alt="" coords="3051,333,3226,375"/>
+<area shape="rect" id="node45" href="$pointsensorparameters_8h.html" title="pointsensorparameters.h" alt="" coords="3908,259,4073,285"/>
+<area shape="rect" id="node3" href="$simulator2d__base_8h.html" title="simulator2d_base.h" alt="" coords="3302,259,3437,285"/>
+<area shape="rect" id="node43" href="$sensor__odometry2d_8h.html" title="sensor_odometry2d.h" alt="" coords="3171,184,3317,211"/>
+<area shape="rect" id="node44" href="$sensor__pose2d_8h.html" title="sensor_pose2d.h" alt="" coords="3393,184,3514,211"/>
+<area shape="rect" id="node46" href="$sensor__pointxy_8h.html" title="sensor_pointxy.h" alt="" coords="3538,184,3659,211"/>
+<area shape="rect" id="node47" href="$sensor__pointxy__bearing_8h.html" title="sensor_pointxy_bearing.h" alt="" coords="3684,184,3855,211"/>
+<area shape="rect" id="node48" href="$sensor__pointxy__offset_8h.html" title="sensor_pointxy_offset.h" alt="" coords="3879,184,4041,211"/>
+<area shape="rect" id="node49" href="$sensor__segment2d_8h.html" title="sensor_segment2d.h" alt="" coords="4065,184,4207,211"/>
+<area shape="rect" id="node50" href="$sensor__segment2d__line_8h.html" title="sensor_segment2d_line.h" alt="" coords="4232,184,4403,211"/>
+<area shape="rect" id="node4" href="$types__slam2d_8h.html" title="g2o/types/slam2d/types\l_slam2d.h" alt="" coords="999,423,1161,464"/>
+<area shape="rect" id="node39" href="$apps_2g2o__simulator_2simulator_8h.html" title="simulator.h" alt="" coords="2457,341,2543,367"/>
+<area shape="rect" id="node6" href="$types_2slam2d_2vertex__se2_8h.html" title="vertex_se2.h" alt="" coords="1742,609,1839,635"/>
+<area shape="rect" id="node15" href="$types_2slam2d_2vertex__point__xy_8h.html" title="vertex_point_xy.h" alt="" coords="1053,609,1179,635"/>
+<area shape="rect" id="node16" href="$types_2slam2d_2parameter__se2__offset_8h.html" title="parameter_se2_offset.h" alt="" coords="1457,609,1615,635"/>
+<area shape="rect" id="node17" href="$edge__se2__prior_8h.html" title="edge_se2_prior.h" alt="" coords="955,519,1077,546"/>
+<area shape="rect" id="node18" href="$edge__se2__xyprior_8h.html" title="edge_se2_xyprior.h" alt="" coords="601,519,735,546"/>
+<area shape="rect" id="node19" href="$types_2slam2d_2edge__se2_8h.html" title="edge_se2.h" alt="" coords="2322,519,2411,546"/>
+<area shape="rect" id="node21" href="$types_2slam2d_2edge__se2__pointxy_8h.html" title="edge_se2_pointxy.h" alt="" coords="1507,519,1645,546"/>
+<area shape="rect" id="node22" href="$edge__se2__pointxy__bearing_8h.html" title="edge_se2_pointxy_bearing.h" alt="" coords="1669,519,1856,546"/>
+<area shape="rect" id="node23" href="$edge__se2__pointxy__calib_8h.html" title="edge_se2_pointxy_calib.h" alt="" coords="759,519,931,546"/>
+<area shape="rect" id="node24" href="$edge__se2__offset_8h.html" title="edge_se2_offset.h" alt="" coords="1881,519,2010,546"/>
+<area shape="rect" id="node25" href="$edge__se2__pointxy__offset_8h.html" title="edge_se2_pointxy_offset.h" alt="" coords="1253,519,1432,546"/>
+<area shape="rect" id="node26" href="$edge__pointxy_8h.html" title="edge_pointxy.h" alt="" coords="109,519,219,546"/>
+<area shape="rect" id="node27" href="$edge__se2__twopointsxy_8h.html" title="edge_se2_twopointsxy.h" alt="" coords="243,519,410,546"/>
+<area shape="rect" id="node28" href="$edge__se2__lotsofxy_8h.html" title="edge_se2_lotsofxy.h" alt="" coords="434,519,577,546"/>
+<area shape="rect" id="node7" href="$base__vertex_8h.html" title="g2o/core/base_vertex.h" alt="" coords="2043,698,2202,725"/>
+<area shape="rect" id="node8" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="1821,691,1968,732"/>
+<area shape="rect" id="node11" href="$types_2slam2d_2se2_8h.html" title="se2.h" alt="" coords="1691,698,1746,725"/>
+<area shape="rect" id="node14" href="$g2o__types__slam2d__api_8h.html" title="g2o_types_slam2d_api.h" alt="" coords="1254,780,1421,807"/>
+<area shape="rect" id="node12" href="$misc_8h.html" title="some general case utility functions " alt="" coords="3413,780,3529,807"/>
+<area shape="rect" id="node20" href="$base__binary__edge_8h.html" title="g2o/core/base_binary\l_edge.h" alt="" coords="2328,601,2475,643"/>
+<area shape="rect" id="node30" href="$edge__se2__segment2d_8h.html" title="edge_se2_segment2d.h" alt="" coords="2639,519,2799,546"/>
+<area shape="rect" id="node33" href="$edge__se2__segment2d__line_8h.html" title="edge_se2_segment2d\l_line.h" alt="" coords="2823,512,2972,553"/>
+<area shape="rect" id="node34" href="$edge__se2__segment2d__pointLine_8h.html" title="edge_se2_segment2d\l_pointLine.h" alt="" coords="2996,512,3145,553"/>
+<area shape="rect" id="node35" href="$edge__se2__line2d_8h.html" title="edge_se2_line2d.h" alt="" coords="3069,430,3200,457"/>
+<area shape="rect" id="node37" href="$edge__line2d__pointxy_8h.html" title="edge_line2d_pointxy.h" alt="" coords="3351,430,3502,457"/>
+<area shape="rect" id="node38" href="$edge__line2d_8h.html" title="edge_line2d.h" alt="" coords="3225,430,3327,457"/>
+<area shape="rect" id="node31" href="$vertex__segment2d_8h.html" title="vertex_segment2d.h" alt="" coords="2651,609,2791,635"/>
+<area shape="rect" id="node32" href="$g2o__types__slam2d__addons__api_8h.html" title="g2o_types_slam2d_addons\l_api.h" alt="" coords="2939,691,3119,732"/>
+<area shape="rect" id="node36" href="$vertex__line2d_8h.html" title="vertex_line2d.h" alt="" coords="3221,519,3331,546"/>
+<area shape="rect" id="node40" href="$slam3d_2types__slam3d_8h.html" title="g2o/types/slam3d/types\l_slam3d.h" alt="" coords="2137,512,2298,553"/>
+<area shape="rect" id="node41" href="$sampler_8h.html" title="g2o/stuff/sampler.h" alt="" coords="3661,698,3795,725"/>
+<area shape="rect" id="node42" href="$g2o__simulator__api_8h.html" title="g2o_simulator_api.h" alt="" coords="3761,430,3900,457"/>
+</map>

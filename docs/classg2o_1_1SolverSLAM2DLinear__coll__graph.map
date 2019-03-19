@@ -1,0 +1,14 @@
+<map id="g2o::SolverSLAM2DLinear" name="g2o::SolverSLAM2DLinear">
+<area shape="rect" id="node2" href="$classg2o_1_1OptimizationAlgorithmGaussNewton.html" title="Implementation of the Gauss Newton Algorithm. " alt="" coords="461,544,639,585"/>
+<area shape="rect" id="node3" href="$classg2o_1_1OptimizationAlgorithmWithHessian.html" title="Base for solvers operating on the approximated Hessian, e.g., Gauss&#45;Newton, Levenberg. " alt="" coords="461,453,639,495"/>
+<area shape="rect" id="node4" href="$classg2o_1_1OptimizationAlgorithm.html" title="Generic interface for a non&#45;linear solver operating on a graph. " alt="" coords="425,185,603,212"/>
+<area shape="rect" id="node7" href="$classg2o_1_1SparseOptimizer.html" title="g2o::SparseOptimizer" alt="" coords="319,275,467,301"/>
+<area shape="rect" id="node5" href="$classg2o_1_1PropertyMap.html" title="a collection of properties mapping from name to the property itself " alt="" coords="541,96,666,123"/>
+<area shape="rect" id="node13" href="$classg2o_1_1Solver.html" title="Generic interface for a sparse solver operating on a graph which solves one iteration of the lineariz..." alt="" coords="399,364,487,391"/>
+<area shape="rect" id="node8" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="210,185,365,212"/>
+<area shape="rect" id="node9" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="5,96,127,123"/>
+<area shape="rect" id="node10" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="151,96,320,123"/>
+<area shape="rect" id="node11" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="344,96,511,123"/>
+<area shape="rect" id="node14" href="$classg2o_1_1Property.html" title="g2o::Property\&lt; bool \&gt;" alt="" coords="588,364,736,391"/>
+<area shape="rect" id="node15" href="$classg2o_1_1BaseProperty.html" title="g2o::BaseProperty" alt="" coords="597,275,727,301"/>
+</map>

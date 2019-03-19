@@ -1,0 +1,31 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/apps/g2o_hierarchical/simple_star_ops.cpp" name="/home/xuezhisd/CLionProjects/g2o/g2o/apps/g2o_hierarchical/simple_star_ops.cpp">
+<area shape="rect" id="node2" href="$simple__star__ops_8h.html" title="simple_star_ops.h" alt="" coords="2299,109,2427,136"/>
+<area shape="rect" id="node39" href="$backbone__tree__action_8h.html" title="backbone_tree_action.h" alt="" coords="811,109,971,136"/>
+<area shape="rect" id="node43" href="$edge__types__cost__function_8h.html" title="edge_types_cost_function.h" alt="" coords="929,259,1114,285"/>
+<area shape="rect" id="node44" href="$optimization__algorithm__with__hessian_8h.html" title="g2o/core/optimization\l_algorithm_with_hessian.h" alt="" coords="2489,333,2665,375"/>
+<area shape="rect" id="node5" href="$sparse__optimizer_8h.html" title="g2o/core/sparse_optimizer.h" alt="" coords="2204,341,2391,367"/>
+<area shape="rect" id="node34" href="$hyper__dijkstra_8h.html" title="g2o/core/hyper_dijkstra.h" alt="" coords="488,497,656,524"/>
+<area shape="rect" id="node35" href="$star_8h.html" title="star.h" alt="" coords="2335,184,2390,211"/>
+<area shape="rect" id="node36" href="$edge__labeler_8h.html" title="edge_labeler.h" alt="" coords="2559,259,2665,285"/>
+<area shape="rect" id="node37" href="$g2o__hierarchical__api_8h.html" title="g2o_hierarchical_api.h" alt="" coords="3750,341,3901,367"/>
+<area shape="rect" id="node38" href="$edge__creator_8h.html" title="edge_creator.h" alt="" coords="3658,259,3766,285"/>
+<area shape="rect" id="node6" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="200,579,331,606"/>
+<area shape="rect" id="node8" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="1316,423,1455,449"/>
+<area shape="rect" id="node20" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="2221,661,2331,688"/>
+<area shape="rect" id="node26" href="$sparse__block__matrix_8h.html" title="sparse_block_matrix.h" alt="" coords="2939,497,3093,524"/>
+<area shape="rect" id="node33" href="$batch__stats_8h.html" title="batch_stats.h" alt="" coords="2436,497,2537,524"/>
+<area shape="rect" id="node15" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="1913,579,2036,606"/>
+<area shape="rect" id="node18" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="1599,579,1703,606"/>
+<area shape="rect" id="node21" href="$parameter_8h.html" title="parameter.h" alt="" coords="1791,497,1881,524"/>
+<area shape="rect" id="node23" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="1241,497,1391,524"/>
+<area shape="rect" id="node24" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="2109,497,2259,524"/>
+<area shape="rect" id="node29" href="$sparse__block__matrix__ccs_8h.html" title="sparse_block_matrix\l_ccs.h" alt="" coords="2967,572,3110,613"/>
+<area shape="rect" id="node30" href="$matrix__operations_8h.html" title="matrix_operations.h" alt="" coords="3424,661,3560,688"/>
+<area shape="rect" id="node31" href="$matrix__structure_8h.html" title="matrix_structure.h" alt="" coords="2663,579,2790,606"/>
+<area shape="rect" id="node32" href="$sparse__block__matrix_8hpp.html" title="sparse_block_matrix.hpp" alt="" coords="3367,579,3534,606"/>
+<area shape="rect" id="node40" href="$factory_8h.html" title="g2o/core/factory.h" alt="" coords="886,423,1013,449"/>
+<area shape="rect" id="node41" href="$misc_8h.html" title="some general case utility functions " alt="" coords="246,497,362,524"/>
+<area shape="rect" id="node42" href="$creators_8h.html" title="creators.h" alt="" coords="933,497,1013,524"/>
+<area shape="rect" id="node45" href="$optimization__algorithm_8h.html" title="optimization_algorithm.h" alt="" coords="2335,423,2497,449"/>
+<area shape="rect" id="node47" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="1530,497,1665,524"/>
+</map>

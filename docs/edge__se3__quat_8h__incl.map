@@ -1,0 +1,27 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/types/deprecated/slam3d/edge_se3_quat.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/types/deprecated/slam3d/edge_se3_quat.h">
+<area shape="rect" id="node3" href="$base__vertex_8h.html" title="g2o/core/base_vertex.h" alt="" coords="897,206,1055,233"/>
+<area shape="rect" id="node34" href="$base__binary__edge_8h.html" title="g2o/core/base_binary\l_edge.h" alt="" coords="2577,109,2724,151"/>
+<area shape="rect" id="node39" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="1536,288,1683,329"/>
+<area shape="rect" id="node44" href="$se3quat_8h.html" title="g2o/types/slam3d/se3quat.h" alt="" coords="265,295,452,322"/>
+<area shape="rect" id="node49" href="$vertex__se3__quat_8h.html" title="vertex_se3_quat.h" alt="" coords="705,117,834,143"/>
+<area shape="rect" id="node50" href="$g2o__deprecated__types__slam3d__api_8h.html" title="g2o_deprecated_types\l_slam3d_api.h" alt="" coords="527,199,681,240"/>
+<area shape="rect" id="node4" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="2207,295,2345,322"/>
+<area shape="rect" id="node27" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="456,527,587,553"/>
+<area shape="rect" id="node29" href="$creators_8h.html" title="creators.h" alt="" coords="1432,295,1512,322"/>
+<area shape="rect" id="node33" href="$base__vertex_8hpp.html" title="base_vertex.hpp" alt="" coords="1137,295,1255,322"/>
+<area shape="rect" id="node11" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="2445,452,2568,479"/>
+<area shape="rect" id="node13" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="1959,452,2063,479"/>
+<area shape="rect" id="node19" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="1471,527,1582,553"/>
+<area shape="rect" id="node20" href="$parameter_8h.html" title="parameter.h" alt="" coords="2231,377,2321,404"/>
+<area shape="rect" id="node22" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="1802,377,1953,404"/>
+<area shape="rect" id="node24" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="1627,377,1778,404"/>
+<area shape="rect" id="node35" href="$base__edge_8h.html" title="base_edge.h" alt="" coords="2603,206,2699,233"/>
+<area shape="rect" id="node36" href="$robust__kernel_8h.html" title="robust_kernel.h" alt="" coords="1145,377,1255,404"/>
+<area shape="rect" id="node38" href="$base__binary__edge_8hpp.html" title="base_binary_edge.hpp" alt="" coords="2427,206,2579,233"/>
+<area shape="rect" id="node40" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="710,377,845,404"/>
+<area shape="rect" id="node42" href="$string__tools_8h.html" title="string_tools.h" alt="" coords="811,452,911,479"/>
+<area shape="rect" id="node43" href="$g2o__stuff__api_8h.html" title="g2o_stuff_api.h" alt="" coords="806,527,917,553"/>
+<area shape="rect" id="node45" href="$se3__ops_8h.html" title="se3_ops.h" alt="" coords="317,377,400,404"/>
+<area shape="rect" id="node47" href="$g2o__types__slam3d__api_8h.html" title="g2o_types_slam3d_api.h" alt="" coords="285,452,451,479"/>
+<area shape="rect" id="node48" href="$se3__ops_8hpp.html" title="se3_ops.hpp" alt="" coords="164,452,260,479"/>
+</map>

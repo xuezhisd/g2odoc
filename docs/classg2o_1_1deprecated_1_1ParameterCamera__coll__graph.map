@@ -1,0 +1,6 @@
+<map id="g2o::deprecated::ParameterCamera" name="g2o::deprecated::ParameterCamera">
+<area shape="rect" id="node2" href="$classg2o_1_1deprecated_1_1ParameterSE3Offset.html" title="offset for an SE3 " alt="" coords="112,185,295,227"/>
+<area shape="rect" id="node3" href="$classg2o_1_1Parameter.html" title="g2o::Parameter" alt="" coords="49,96,160,123"/>
+<area shape="rect" id="node4" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node5" href="$classg2o_1_1SE3Quat.html" title="g2o::SE3Quat" alt="" coords="185,96,289,123"/>
+</map>

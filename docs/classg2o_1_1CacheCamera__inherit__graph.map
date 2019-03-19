@@ -1,0 +1,5 @@
+<map id="g2o::CacheCamera" name="g2o::CacheCamera">
+<area shape="rect" id="node2" href="$classg2o_1_1CacheSE3Offset.html" title="caching the offset related to a vertex " alt="" coords="29,169,180,196"/>
+<area shape="rect" id="node3" href="$classg2o_1_1Cache.html" title="g2o::Cache" alt="" coords="60,95,149,121"/>
+<area shape="rect" id="node4" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,5,204,47"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="g2o::EdgeSE3Euler" name="g2o::EdgeSE3Euler">
+<area shape="rect" id="node2" href="$classg2o_1_1EdgeSE3.html" title="Edge between two 3D pose vertices. " alt="" coords="157,437,263,464"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 6, Isometry3D, VertexSE3,\l VertexSE3 \&gt;" alt="" coords="114,333,306,389"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Isometry3D \&gt;" alt="" coords="99,259,321,285"/>
+<area shape="rect" id="node5" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="133,169,287,211"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph_1_1Edge.html" title="g2o::HyperGraph::Edge" alt="" coords="25,95,184,121"/>
+<area shape="rect" id="node7" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node8" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="209,95,422,121"/>
+</map>

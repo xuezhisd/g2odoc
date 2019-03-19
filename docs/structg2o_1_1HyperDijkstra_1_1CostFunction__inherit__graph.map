@@ -1,0 +1,5 @@
+<map id="g2o::HyperDijkstra::CostFunction" name="g2o::HyperDijkstra::CostFunction">
+<area shape="rect" id="node2" href="$structg2o_1_1EdgeTypesCostFunction.html" title="g2o::EdgeTypesCostFunction" alt="" coords="5,95,200,121"/>
+<area shape="rect" id="node3" href="$structg2o_1_1UniformCostFunction.html" title="g2o::UniformCostFunction" alt="" coords="225,95,399,121"/>
+<area shape="rect" id="node4" href="$structInvChi2CostFunction.html" title="InvChi2CostFunction" alt="" coords="423,95,569,121"/>
+</map>

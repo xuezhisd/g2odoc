@@ -1,0 +1,18 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/examples/interactive_slam/g2o_interactive/graph_optimizer_sparse_online.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/examples/interactive_slam/g2o_interactive/graph_optimizer_sparse_online.h">
+<area shape="rect" id="node2" href="$g2o__interactive__api_8h.html" title="g2o_interactive_api.h" alt="" coords="131,199,276,225"/>
+<area shape="rect" id="node4" href="$sparse__optimizer_8h.html" title="g2o/core/sparse_optimizer.h" alt="" coords="1063,124,1250,151"/>
+<area shape="rect" id="node5" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="1091,273,1222,300"/>
+<area shape="rect" id="node7" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="569,199,707,225"/>
+<area shape="rect" id="node22" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="973,437,1084,464"/>
+<area shape="rect" id="node30" href="$sparse__block__matrix_8h.html" title="sparse_block_matrix.h" alt="" coords="1764,273,1917,300"/>
+<area shape="rect" id="node37" href="$batch__stats_8h.html" title="batch_stats.h" alt="" coords="1331,273,1433,300"/>
+<area shape="rect" id="node14" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="29,355,151,382"/>
+<area shape="rect" id="node16" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="493,355,597,382"/>
+<area shape="rect" id="node23" href="$parameter_8h.html" title="parameter.h" alt="" coords="453,273,543,300"/>
+<area shape="rect" id="node25" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="277,273,428,300"/>
+<area shape="rect" id="node27" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="619,273,769,300"/>
+<area shape="rect" id="node33" href="$sparse__block__matrix__ccs_8h.html" title="sparse_block_matrix\l_ccs.h" alt="" coords="2000,348,2143,389"/>
+<area shape="rect" id="node34" href="$matrix__operations_8h.html" title="matrix_operations.h" alt="" coords="2109,437,2245,464"/>
+<area shape="rect" id="node35" href="$matrix__structure_8h.html" title="matrix_structure.h" alt="" coords="1504,355,1631,382"/>
+<area shape="rect" id="node36" href="$sparse__block__matrix_8hpp.html" title="sparse_block_matrix.hpp" alt="" coords="1757,355,1924,382"/>
+</map>

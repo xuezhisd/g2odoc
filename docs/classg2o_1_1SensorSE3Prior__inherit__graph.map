@@ -1,0 +1,5 @@
+<map id="g2o::SensorSE3Prior" name="g2o::SensorSE3Prior">
+<area shape="rect" id="node2" href="$classg2o_1_1PointSensorParameters.html" title="g2o::PointSensorParameters" alt="" coords="5,87,195,114"/>
+<area shape="rect" id="node3" href="$classg2o_1_1UnarySensor.html" title="g2o::UnarySensor\&lt; Robot3\lD, EdgeSE3Prior \&gt;" alt="" coords="219,80,400,121"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BaseSensor.html" title="g2o::BaseSensor" alt="" coords="248,5,371,32"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="g2o::UnarySensor&lt; RobotType_, EdgeType_ &gt;" name="g2o::UnarySensor&lt; RobotType_, EdgeType_ &gt;">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseSensor.html" title="g2o::BaseSensor" alt="" coords="1253,56,1376,83"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseRobot.html" title="g2o::BaseRobot" alt="" coords="1008,56,1124,83"/>
+<area shape="rect" id="node4" href="$classg2o_1_1World.html" title="g2o::World" alt="" coords="832,56,917,83"/>
+<area shape="rect" id="node5" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="585,56,740,83"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="267,5,388,32"/>
+<area shape="rect" id="node7" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="243,56,412,83"/>
+<area shape="rect" id="node8" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="244,107,411,133"/>
+<area shape="rect" id="node10" href="$classg2o_1_1GaussianSampler.html" title="g2o::GaussianSampler\l\&lt; typename EdgeType::\lErrorVector, InformationType \&gt;" alt="" coords="1213,107,1416,163"/>
+</map>

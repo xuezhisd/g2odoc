@@ -1,0 +1,4 @@
+<map id="g2o::SLAM2DLinearSolverCreator" name="g2o::SLAM2DLinearSolverCreator">
+<area shape="rect" id="node2" href="$classg2o_1_1AbstractOptimizationAlgorithmCreator.html" title="base for allocating an optimization algorithm " alt="" coords="28,109,201,151"/>
+<area shape="rect" id="node3" href="$structg2o_1_1OptimizationAlgorithmProperty.html" title="describe the properties of a solver " alt="" coords="25,5,204,47"/>
+</map>

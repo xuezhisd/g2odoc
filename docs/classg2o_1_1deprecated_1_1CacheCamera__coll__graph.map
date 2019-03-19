@@ -1,0 +1,19 @@
+<map id="g2o::deprecated::CacheCamera" name="g2o::deprecated::CacheCamera">
+<area shape="rect" id="node2" href="$classg2o_1_1deprecated_1_1CacheSE3Offset.html" title="caching the offset related to a vertex " alt="" coords="1948,378,2135,419"/>
+<area shape="rect" id="node3" href="$classg2o_1_1Cache.html" title="g2o::Cache" alt="" coords="1681,293,1771,320"/>
+<area shape="rect" id="node4" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,269,204,310"/>
+<area shape="rect" id="node8" href="$classg2o_1_1HyperGraph_1_1Vertex.html" title="abstract Vertex, your types must derive from that one " alt="" coords="447,143,613,169"/>
+<area shape="rect" id="node10" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="259,247,417,273"/>
+<area shape="rect" id="node18" href="$classg2o_1_1Parameter.html" title="g2o::Parameter" alt="" coords="885,348,995,375"/>
+<area shape="rect" id="node5" href="$classg2o_1_1CacheContainer.html" title="g2o::CacheContainer" alt="" coords="1376,217,1521,244"/>
+<area shape="rect" id="node7" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="1050,154,1205,195"/>
+<area shape="rect" id="node9" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="637,236,851,263"/>
+<area shape="rect" id="node11" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="667,68,821,95"/>
+<area shape="rect" id="node12" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="277,107,399,133"/>
+<area shape="rect" id="node13" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="253,5,423,32"/>
+<area shape="rect" id="node14" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="255,56,421,83"/>
+<area shape="rect" id="node16" href="$classg2o_1_1OpenMPMutex.html" title="g2o::OpenMPMutex" alt="" coords="675,185,813,212"/>
+<area shape="rect" id="node17" href="$classg2o_1_1deprecated_1_1ParameterSE3Offset.html" title="offset for an SE3 " alt="" coords="1635,345,1817,386"/>
+<area shape="rect" id="node20" href="$classg2o_1_1deprecated_1_1ParameterCamera.html" title="parameters for a camera " alt="" coords="1950,313,2133,354"/>
+<area shape="rect" id="node19" href="$classg2o_1_1SE3Quat.html" title="g2o::SE3Quat" alt="" coords="1397,412,1501,439"/>
+</map>

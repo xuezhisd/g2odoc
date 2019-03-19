@@ -1,0 +1,11 @@
+<map id="g2o::BackBoneTreeAction" name="g2o::BackBoneTreeAction">
+<area shape="rect" id="node2" href="$structg2o_1_1HyperDijkstra_1_1TreeAction.html" title="g2o::HyperDijkstra\l::TreeAction" alt="" coords="5,261,136,303"/>
+<area shape="rect" id="node3" href="$classg2o_1_1Factory.html" title="create vertices and edges based on TAGs in, for example, a file " alt="" coords="161,269,255,295"/>
+<area shape="rect" id="node4" href="$classg2o_1_1SparseOptimizer.html" title="g2o::SparseOptimizer" alt="" coords="398,269,546,295"/>
+<area shape="rect" id="node10" href="$classg2o_1_1OptimizationAlgorithm.html" title="Generic interface for a non&#45;linear solver operating on a graph. " alt="" coords="469,365,648,392"/>
+<area shape="rect" id="node5" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="395,178,549,205"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="242,81,363,108"/>
+<area shape="rect" id="node7" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="387,81,557,108"/>
+<area shape="rect" id="node8" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="581,81,747,108"/>
+<area shape="rect" id="node11" href="$classg2o_1_1PropertyMap.html" title="a collection of properties mapping from name to the property itself " alt="" coords="592,269,717,295"/>
+</map>

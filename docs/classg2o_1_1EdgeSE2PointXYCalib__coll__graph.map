@@ -1,0 +1,10 @@
+<map id="g2o::EdgeSE2PointXYCalib" name="g2o::EdgeSE2PointXYCalib">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseMultiEdge.html" title="g2o::BaseMultiEdge\l\&lt; 2, Vector2D \&gt;" alt="" coords="159,453,298,495"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector2D \&gt;" alt="" coords="125,377,333,404"/>
+<area shape="rect" id="node4" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="151,287,306,328"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph_1_1Edge.html" title="g2o::HyperGraph::Edge" alt="" coords="5,147,164,173"/>
+<area shape="rect" id="node6" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="23,5,221,47"/>
+<area shape="rect" id="node8" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="122,96,279,123"/>
+<area shape="rect" id="node7" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="122,197,335,224"/>
+<area shape="rect" id="node9" href="$classg2o_1_1RobustKernel.html" title="base for all robust cost functions " alt="" coords="359,197,490,224"/>
+</map>

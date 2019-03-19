@@ -1,0 +1,22 @@
+<map id="g2o::EdgeSE3Prior" name="g2o::EdgeSE3Prior">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseUnaryEdge.html" title="g2o::BaseUnaryEdge\l\&lt; 6, Isometry3D, VertexSE3 \&gt;" alt="" coords="1987,53,2187,94"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Isometry3D \&gt;" alt="" coords="1545,59,1767,85"/>
+<area shape="rect" id="node4" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="1050,49,1205,90"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph_1_1Edge.html" title="g2o::HyperGraph::Edge" alt="" coords="451,56,609,83"/>
+<area shape="rect" id="node6" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,189,204,230"/>
+<area shape="rect" id="node8" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="259,196,417,223"/>
+<area shape="rect" id="node11" href="$classg2o_1_1Parameter.html" title="g2o::Parameter" alt="" coords="885,111,995,137"/>
+<area shape="rect" id="node13" href="$classg2o_1_1Cache.html" title="g2o::Cache" alt="" coords="1832,247,1921,273"/>
+<area shape="rect" id="node17" href="$classg2o_1_1HyperGraph_1_1Vertex.html" title="abstract Vertex, your types must derive from that one " alt="" coords="447,297,613,324"/>
+<area shape="rect" id="node7" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="637,163,851,189"/>
+<area shape="rect" id="node16" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="1050,298,1205,339"/>
+<area shape="rect" id="node9" href="$classg2o_1_1RobustKernel.html" title="base for all robust cost functions " alt="" coords="679,5,809,32"/>
+<area shape="rect" id="node10" href="$classg2o_1_1ParameterSE3Offset.html" title="offset for an SE3 " alt="" coords="1791,115,1963,141"/>
+<area shape="rect" id="node12" href="$classg2o_1_1CacheSE3Offset.html" title="caching the offset related to a vertex " alt="" coords="2211,173,2361,200"/>
+<area shape="rect" id="node14" href="$classg2o_1_1CacheContainer.html" title="g2o::CacheContainer" alt="" coords="1376,312,1521,339"/>
+<area shape="rect" id="node18" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="667,348,821,375"/>
+<area shape="rect" id="node19" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="277,348,399,375"/>
+<area shape="rect" id="node20" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="253,399,423,425"/>
+<area shape="rect" id="node21" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="255,449,421,476"/>
+<area shape="rect" id="node23" href="$classg2o_1_1OpenMPMutex.html" title="g2o::OpenMPMutex" alt="" coords="675,399,813,425"/>
+</map>

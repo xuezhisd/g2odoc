@@ -1,0 +1,4 @@
+<map id="g2o::HyperGraph::DataContainer" name="g2o::HyperGraph::DataContainer">
+<area shape="rect" id="node2" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="157,109,315,136"/>
+<area shape="rect" id="node3" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="243,5,442,47"/>
+</map>

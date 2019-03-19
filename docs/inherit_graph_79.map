@@ -1,0 +1,38 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classg2o_1_1BaseSensor.html" title="g2o::BaseSensor" alt="" coords="5,629,128,656"/>
+<area shape="rect" id="node2" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l R, E, O \&gt;" alt="" coords="234,150,371,191"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2, WorldObject\lSE2 \&gt;" alt="" coords="192,215,413,271"/>
+<area shape="rect" id="node7" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2PointXY,\l WorldObjectPointXY \&gt;" alt="" coords="206,295,399,351"/>
+<area shape="rect" id="node9" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2PointXYBearing,\l WorldObjectPointXY \&gt;" alt="" coords="184,375,421,431"/>
+<area shape="rect" id="node11" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2PointXYOffset,\l WorldObjectPointXY \&gt;" alt="" coords="188,455,417,511"/>
+<area shape="rect" id="node13" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2Segment2D,\l WorldObjectSegment2D \&gt;" alt="" coords="195,535,410,591"/>
+<area shape="rect" id="node15" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2Segment2DLine,\l WorldObjectSegment2D \&gt;" alt="" coords="183,615,422,671"/>
+<area shape="rect" id="node17" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2Segment2DPoint\lLine, WorldObjectSegment2D \&gt;" alt="" coords="183,695,423,751"/>
+<area shape="rect" id="node19" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot3D, EdgeSE3, WorldObject\lSE3 \&gt;" alt="" coords="192,1289,413,1345"/>
+<area shape="rect" id="node22" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot3D, EdgeSE3Line\l WorldObjectLine3D \&gt;" alt="" coords="220,825,385,881"/>
+<area shape="rect" id="node24" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot3D, EdgeSE3Offset,\l WorldObjectSE3 \&gt;" alt="" coords="212,905,393,961"/>
+<area shape="rect" id="node26" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot3D, EdgeSE3PointXYZ,\l WorldObjectTrackXYZ \&gt;" alt="" coords="202,985,403,1041"/>
+<area shape="rect" id="node28" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot3D, EdgeSE3PointXYZDepth,\l WorldObjectTrackXYZ \&gt;" alt="" coords="185,1065,421,1121"/>
+<area shape="rect" id="node30" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot3D, EdgeSE3PointXYZDisparity,\l WorldObjectTrackXYZ \&gt;" alt="" coords="176,1145,429,1201"/>
+<area shape="rect" id="node32" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l RobotType_, EdgeType\l_, WorldObjectType_ \&gt;" alt="" coords="221,5,385,61"/>
+<area shape="rect" id="node33" href="$classg2o_1_1UnarySensor.html" title="g2o::UnarySensor\&lt; RobotType\l_, EdgeType_ \&gt;" alt="" coords="201,85,404,126"/>
+<area shape="rect" id="node34" href="$classg2o_1_1UnarySensor.html" title="g2o::UnarySensor\&lt; Robot3\lD, EdgeSE3Prior \&gt;" alt="" coords="212,1225,393,1266"/>
+<area shape="rect" id="node3" href="$classg2o_1_1SensorOdometry.html" title="g2o::SensorOdometry\l\&lt; R, E, O \&gt;" alt="" coords="510,150,659,191"/>
+<area shape="rect" id="node5" href="$classg2o_1_1SensorOdometry2D.html" title="g2o::SensorOdometry2D" alt="" coords="501,229,668,256"/>
+<area shape="rect" id="node6" href="$classg2o_1_1SensorPose2D.html" title="g2o::SensorPose2D" alt="" coords="515,289,654,316"/>
+<area shape="rect" id="node8" href="$classg2o_1_1SensorPointXY.html" title="g2o::SensorPointXY" alt="" coords="515,359,655,385"/>
+<area shape="rect" id="node10" href="$classg2o_1_1SensorPointXYBearing.html" title="g2o::SensorPointXYBearing" alt="" coords="493,420,677,447"/>
+<area shape="rect" id="node12" href="$classg2o_1_1SensorPointXYOffset.html" title="g2o::SensorPointXYOffset" alt="" coords="497,503,673,529"/>
+<area shape="rect" id="node14" href="$classg2o_1_1SensorSegment2D.html" title="g2o::SensorSegment2D" alt="" coords="504,587,665,613"/>
+<area shape="rect" id="node16" href="$classg2o_1_1SensorSegment2DLine.html" title="g2o::SensorSegment2DLine" alt="" coords="492,676,677,703"/>
+<area shape="rect" id="node18" href="$classg2o_1_1SensorSegment2DPointLine.html" title="g2o::SensorSegment2DPointLine" alt="" coords="477,751,692,777"/>
+<area shape="rect" id="node20" href="$classg2o_1_1SensorOdometry3D.html" title="g2o::SensorOdometry3D" alt="" coords="501,1304,668,1331"/>
+<area shape="rect" id="node21" href="$classg2o_1_1SensorPose3D.html" title="g2o::SensorPose3D" alt="" coords="515,1223,654,1249"/>
+<area shape="rect" id="node23" href="$classg2o_1_1SensorPointLine3D.html" title="g2o::SensorPointLine3D" alt="" coords="503,821,666,848"/>
+<area shape="rect" id="node25" href="$classg2o_1_1SensorPose3DOffset.html" title="g2o::SensorPose3DOffset" alt="" coords="497,896,672,923"/>
+<area shape="rect" id="node27" href="$classg2o_1_1SensorPointXYZ.html" title="g2o::SensorPointXYZ" alt="" coords="511,973,659,1000"/>
+<area shape="rect" id="node29" href="$classg2o_1_1SensorPointXYZDepth.html" title="g2o::SensorPointXYZDepth" alt="" coords="493,1052,676,1079"/>
+<area shape="rect" id="node31" href="$classg2o_1_1SensorPointXYZDisparity.html" title="g2o::SensorPointXYZDisparity" alt="" coords="485,1105,685,1132"/>
+<area shape="rect" id="node35" href="$classg2o_1_1SensorSE3Prior.html" title="g2o::SensorSE3Prior" alt="" coords="513,1161,657,1188"/>
+<area shape="rect" id="node36" href="$classg2o_1_1PointSensorParameters.html" title="g2o::PointSensorParameters" alt="" coords="208,775,397,801"/>
+</map>

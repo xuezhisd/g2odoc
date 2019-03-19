@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structg2o_1_1HyperDijkstra_1_1CostFunction.html" title="g2o::HyperDijkstra\l::CostFunction" alt="" coords="5,49,136,90"/>
+<area shape="rect" id="node2" href="$structg2o_1_1EdgeTypesCostFunction.html" title="g2o::EdgeTypesCostFunction" alt="" coords="184,5,379,32"/>
+<area shape="rect" id="node3" href="$structg2o_1_1UniformCostFunction.html" title="g2o::UniformCostFunction" alt="" coords="194,56,369,83"/>
+<area shape="rect" id="node4" href="$structInvChi2CostFunction.html" title="InvChi2CostFunction" alt="" coords="209,107,354,133"/>
+</map>

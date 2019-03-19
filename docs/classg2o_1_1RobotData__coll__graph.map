@@ -1,0 +1,5 @@
+<map id="g2o::RobotData" name="g2o::RobotData">
+<area shape="rect" id="node2" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="76,96,233,123"/>
+<area shape="rect" id="node4" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="144,185,357,212"/>
+<area shape="rect" id="node3" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="55,5,254,47"/>
+</map>

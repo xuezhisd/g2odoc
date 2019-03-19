@@ -1,0 +1,4 @@
+<map id="g2o::LinearSolverCholmodOnline&lt; MatrixType &gt;" name="g2o::LinearSolverCholmodOnline&lt; MatrixType &gt;">
+<area shape="rect" id="node2" href="$classg2o_1_1LinearSolver.html" title="basic solver for Ax = b " alt="" coords="5,5,136,47"/>
+<area shape="rect" id="node3" href="$classg2o_1_1LinearSolverCholmodOnlineInterface.html" title="generic interface for the online solver " alt="" coords="161,5,335,47"/>
+</map>

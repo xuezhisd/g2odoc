@@ -1,0 +1,20 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam2d/vertex_se2.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam2d/vertex_se2.h">
+<area shape="rect" id="node3" href="$base__vertex_8h.html" title="g2o/core/base_vertex.h" alt="" coords="1596,95,1755,121"/>
+<area shape="rect" id="node34" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="962,169,1109,211"/>
+<area shape="rect" id="node40" href="$types_2slam2d_2se2_8h.html" title="se2.h" alt="" coords="367,95,421,121"/>
+<area shape="rect" id="node42" href="$g2o__types__slam2d__api_8h.html" title="g2o_types_slam2d_api.h" alt="" coords="5,177,172,203"/>
+<area shape="rect" id="node4" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="1351,177,1490,203"/>
+<area shape="rect" id="node27" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="239,408,370,435"/>
+<area shape="rect" id="node29" href="$creators_8h.html" title="creators.h" alt="" coords="1186,177,1266,203"/>
+<area shape="rect" id="node33" href="$base__vertex_8hpp.html" title="base_vertex.hpp" alt="" coords="2052,177,2171,203"/>
+<area shape="rect" id="node11" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="1962,333,2085,360"/>
+<area shape="rect" id="node13" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="1490,333,1594,360"/>
+<area shape="rect" id="node19" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="1339,408,1449,435"/>
+<area shape="rect" id="node20" href="$parameter_8h.html" title="parameter.h" alt="" coords="1490,259,1581,285"/>
+<area shape="rect" id="node22" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="771,259,921,285"/>
+<area shape="rect" id="node24" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="1757,259,1908,285"/>
+<area shape="rect" id="node35" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="509,259,644,285"/>
+<area shape="rect" id="node37" href="$string__tools_8h.html" title="string_tools.h" alt="" coords="467,333,567,360"/>
+<area shape="rect" id="node39" href="$g2o__stuff__api_8h.html" title="g2o_stuff_api.h" alt="" coords="572,408,683,435"/>
+<area shape="rect" id="node41" href="$misc_8h.html" title="some general case utility functions " alt="" coords="336,177,452,203"/>
+</map>

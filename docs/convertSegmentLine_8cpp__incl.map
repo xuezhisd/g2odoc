@@ -1,0 +1,30 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/apps/g2o_simulator/convertSegmentLine.cpp" name="/home/xuezhisd/CLionProjects/g2o/g2o/apps/g2o_simulator/convertSegmentLine.cpp">
+<area shape="rect" id="node10" href="$estimate__propagator_8h.html" title="g2o/core/estimate_propagator.h" alt="" coords="741,117,947,143"/>
+<area shape="rect" id="node22" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="145,474,276,501"/>
+<area shape="rect" id="node24" href="$sparse__optimizer_8h.html" title="sparse_optimizer.h" alt="" coords="1579,206,1711,233"/>
+<area shape="rect" id="node26" href="$batch__stats_8h.html" title="batch_stats.h" alt="" coords="2180,295,2281,322"/>
+<area shape="rect" id="node27" href="$factory_8h.html" title="g2o/core/factory.h" alt="" coords="1735,206,1862,233"/>
+<area shape="rect" id="node30" href="$optimization__algorithm__factory_8h.html" title="g2o/core/optimization\l_algorithm_factory.h" alt="" coords="1004,288,1151,329"/>
+<area shape="rect" id="node32" href="$hyper__dijkstra_8h.html" title="g2o/core/hyper_dijkstra.h" alt="" coords="1225,295,1393,322"/>
+<area shape="rect" id="node33" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="1937,199,2084,240"/>
+<area shape="rect" id="node35" href="$string__tools_8h.html" title="string_tools.h" alt="" coords="3389,385,3489,411"/>
+<area shape="rect" id="node39" href="$optimization__algorithm_8h.html" title="g2o/core/optimization\l_algorithm.h" alt="" coords="2579,199,2725,240"/>
+<area shape="rect" id="node41" href="$sparse__optimizer__terminate__action_8h.html" title="g2o/core/sparse_optimizer\l_terminate_action.h" alt="" coords="1858,109,2033,151"/>
+<area shape="rect" id="node42" href="$color__macros_8h.html" title="g2o/stuff/color_macros.h" alt="" coords="3813,117,3979,143"/>
+<area shape="rect" id="node43" href="$command__args_8h.html" title="g2o/stuff/command_args.h" alt="" coords="3103,295,3281,322"/>
+<area shape="rect" id="node44" href="$filesys__tools_8h.html" title="g2o/stuff/filesys_tools.h" alt="" coords="3050,385,3211,411"/>
+<area shape="rect" id="node45" href="$timeutil_8h.html" title="utility functions for handling time related stuff " alt="" coords="3615,385,3745,411"/>
+<area shape="rect" id="node47" href="$types__slam2d__addons_8h.html" title="g2o/types/slam2d_addons\l/types_slam2d_addons.h" alt="" coords="389,377,563,419"/>
+<area shape="rect" id="node50" href="$simutils_8h.html" title="g2o/apps/g2o_simulator\l/simutils.h" alt="" coords="4004,109,4164,151"/>
+<area shape="rect" id="node11" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="841,295,980,322"/>
+<area shape="rect" id="node20" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="1401,474,1511,501"/>
+<area shape="rect" id="node16" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="1404,385,1508,411"/>
+<area shape="rect" id="node25" href="$sparse__block__matrix_8h.html" title="sparse_block_matrix.h" alt="" coords="2458,295,2611,322"/>
+<area shape="rect" id="node28" href="$misc_8h.html" title="some general case utility functions " alt="" coords="249,385,365,411"/>
+<area shape="rect" id="node29" href="$creators_8h.html" title="creators.h" alt="" coords="1468,295,1548,322"/>
+<area shape="rect" id="node31" href="$optimization__algorithm__property_8h.html" title="optimization_algorithm\l_property.h" alt="" coords="1583,377,1735,419"/>
+<area shape="rect" id="node34" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="3305,295,3439,322"/>
+<area shape="rect" id="node37" href="$g2o__stuff__api_8h.html" title="g2o_stuff_api.h" alt="" coords="3471,474,3582,501"/>
+<area shape="rect" id="node48" href="$types__slam2d_8h.html" title="g2o/types/slam2d/types\l_slam2d.h" alt="" coords="373,467,534,508"/>
+<area shape="rect" id="node49" href="$edge__se2__segment2d_8h.html" title="edge_se2_segment2d.h" alt="" coords="559,474,719,501"/>
+</map>

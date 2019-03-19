@@ -1,0 +1,27 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam3d_addons/edge_se3_plane_calib.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam3d_addons/edge_se3_plane_calib.h">
+<area shape="rect" id="node2" href="$base__multi__edge_8h.html" title="g2o/core/base_multi\l_edge.h" alt="" coords="268,109,407,151"/>
+<area shape="rect" id="node34" href="$vertex__se3_8h.html" title="g2o/types/slam3d/vertex\l_se3.h" alt="" coords="2352,109,2517,151"/>
+<area shape="rect" id="node47" href="$vertex__plane_8h.html" title="vertex_plane.h" alt="" coords="2129,117,2236,143"/>
+<area shape="rect" id="node7" href="$base__edge_8h.html" title="base_edge.h" alt="" coords="144,199,240,225"/>
+<area shape="rect" id="node31" href="$robust__kernel_8h.html" title="robust_kernel.h" alt="" coords="1285,363,1395,389"/>
+<area shape="rect" id="node33" href="$base__multi__edge_8hpp.html" title="base_multi_edge.hpp" alt="" coords="265,199,410,225"/>
+<area shape="rect" id="node9" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="759,281,897,307"/>
+<area shape="rect" id="node14" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="420,437,543,464"/>
+<area shape="rect" id="node17" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="769,437,873,464"/>
+<area shape="rect" id="node23" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="1054,512,1165,539"/>
+<area shape="rect" id="node24" href="$parameter_8h.html" title="parameter.h" alt="" coords="783,363,873,389"/>
+<area shape="rect" id="node26" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="1419,363,1570,389"/>
+<area shape="rect" id="node28" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="494,363,645,389"/>
+<area shape="rect" id="node29" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="1595,363,1725,389"/>
+<area shape="rect" id="node35" href="$base__vertex_8h.html" title="g2o/core/base_vertex.h" alt="" coords="1575,199,1734,225"/>
+<area shape="rect" id="node41" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="1171,273,1317,315"/>
+<area shape="rect" id="node43" href="$isometry3d__mappings_8h.html" title="isometry3d_mappings.h" alt="" coords="2448,199,2608,225"/>
+<area shape="rect" id="node44" href="$g2o__types__slam3d__api_8h.html" title="g2o_types_slam3d_api.h" alt="" coords="2643,281,2810,307"/>
+<area shape="rect" id="node36" href="$creators_8h.html" title="creators.h" alt="" coords="1443,281,1523,307"/>
+<area shape="rect" id="node40" href="$base__vertex_8hpp.html" title="base_vertex.hpp" alt="" coords="1815,281,1934,307"/>
+<area shape="rect" id="node42" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="2146,363,2281,389"/>
+<area shape="rect" id="node45" href="$se3quat_8h.html" title="se3quat.h" alt="" coords="2489,281,2567,307"/>
+<area shape="rect" id="node48" href="$g2o__types__slam3d__addons__api_8h.html" title="g2o_types_slam3d_addons\l_api.h" alt="" coords="2182,273,2362,315"/>
+<area shape="rect" id="node49" href="$plane3d_8h.html" title="plane3d.h" alt="" coords="2182,199,2261,225"/>
+<area shape="rect" id="node50" href="$misc_8h.html" title="some general case utility functions " alt="" coords="1030,281,1146,307"/>
+</map>

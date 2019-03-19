@@ -1,0 +1,15 @@
+<map id="PlaneItem" name="PlaneItem">
+<area shape="rect" id="node2" href="$structWorldItem.html" title="WorldItem" alt="" coords="1407,173,1490,200"/>
+<area shape="rect" id="node3" href="$structSimulatorItem.html" title="SimulatorItem" alt="" coords="1076,196,1179,223"/>
+<area shape="rect" id="node4" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="667,196,821,223"/>
+<area shape="rect" id="node9" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="1050,98,1205,139"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="277,145,399,172"/>
+<area shape="rect" id="node6" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="253,196,423,223"/>
+<area shape="rect" id="node7" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="255,247,421,273"/>
+<area shape="rect" id="node14" href="$classg2o_1_1CacheContainer.html" title="g2o::CacheContainer" alt="" coords="1376,61,1521,88"/>
+<area shape="rect" id="node10" href="$classg2o_1_1HyperGraph_1_1Vertex.html" title="abstract Vertex, your types must derive from that one " alt="" coords="447,5,613,32"/>
+<area shape="rect" id="node11" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,21,204,62"/>
+<area shape="rect" id="node13" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="259,95,417,121"/>
+<area shape="rect" id="node12" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="637,56,851,83"/>
+<area shape="rect" id="node16" href="$classg2o_1_1OpenMPMutex.html" title="g2o::OpenMPMutex" alt="" coords="675,107,813,133"/>
+</map>

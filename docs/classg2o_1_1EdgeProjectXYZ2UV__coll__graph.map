@@ -1,0 +1,12 @@
+<map id="g2o::EdgeProjectXYZ2UV" name="g2o::EdgeProjectXYZ2UV">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 2, Vector2D, VertexSBAPoint\lXYZ, VertexSE3Expmap \&gt;" alt="" coords="1504,61,1711,117"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Vector2D \&gt;" alt="" coords="1247,72,1455,99"/>
+<area shape="rect" id="node4" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="1043,50,1197,91"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph_1_1Edge.html" title="g2o::HyperGraph::Edge" alt="" coords="435,35,593,61"/>
+<area shape="rect" id="node6" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,111,204,153"/>
+<area shape="rect" id="node8" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="253,119,411,145"/>
+<area shape="rect" id="node11" href="$classg2o_1_1Parameter.html" title="g2o::Parameter" alt="" coords="277,169,387,196"/>
+<area shape="rect" id="node7" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="617,107,831,133"/>
+<area shape="rect" id="node9" href="$classg2o_1_1RobustKernel.html" title="base for all robust cost functions " alt="" coords="659,5,789,32"/>
+<area shape="rect" id="node10" href="$classg2o_1_1CameraParameters.html" title="g2o::CameraParameters" alt="" coords="855,160,1019,187"/>
+</map>

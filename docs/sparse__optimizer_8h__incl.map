@@ -1,0 +1,16 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/core/sparse_optimizer.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/core/sparse_optimizer.h">
+<area shape="rect" id="node2" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="5,169,136,196"/>
+<area shape="rect" id="node4" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="612,95,751,121"/>
+<area shape="rect" id="node20" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="482,333,593,360"/>
+<area shape="rect" id="node28" href="$sparse__block__matrix_8h.html" title="sparse_block_matrix.h" alt="" coords="1775,169,1929,196"/>
+<area shape="rect" id="node35" href="$batch__stats_8h.html" title="batch_stats.h" alt="" coords="1368,169,1469,196"/>
+<area shape="rect" id="node11" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="1120,251,1243,278"/>
+<area shape="rect" id="node14" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="625,251,729,278"/>
+<area shape="rect" id="node21" href="$parameter_8h.html" title="parameter.h" alt="" coords="776,169,867,196"/>
+<area shape="rect" id="node23" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="942,169,1093,196"/>
+<area shape="rect" id="node25" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="550,169,701,196"/>
+<area shape="rect" id="node31" href="$sparse__block__matrix__ccs_8h.html" title="sparse_block_matrix\l_ccs.h" alt="" coords="1961,244,2103,285"/>
+<area shape="rect" id="node32" href="$matrix__operations_8h.html" title="matrix_operations.h" alt="" coords="2069,333,2205,360"/>
+<area shape="rect" id="node33" href="$matrix__structure_8h.html" title="matrix_structure.h" alt="" coords="1515,251,1642,278"/>
+<area shape="rect" id="node34" href="$sparse__block__matrix_8hpp.html" title="sparse_block_matrix.hpp" alt="" coords="2219,251,2386,278"/>
+</map>

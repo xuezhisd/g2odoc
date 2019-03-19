@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classg2o_1_1LinearSolver.html" title="basic solver for Ax = b " alt="" coords="27,136,158,177"/>
+<area shape="rect" id="node2" href="$classg2o_1_1LinearSolverCCS.html" title="Solver with faster iterating structure for the linear matrix. " alt="" coords="239,71,391,112"/>
+<area shape="rect" id="node5" href="$classg2o_1_1LinearSolverCholmodOnline.html" title="linear solver which allows to update the cholesky factor " alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node6" href="$classg2o_1_1LinearSolverDense.html" title="linear solver using dense cholesky decomposition " alt="" coords="235,136,396,177"/>
+<area shape="rect" id="node7" href="$classg2o_1_1LinearSolverEigen.html" title="linear solver which uses the sparse Cholesky solver from Eigen " alt="" coords="237,201,393,243"/>
+<area shape="rect" id="node8" href="$classg2o_1_1LinearSolverPCG.html" title="linear solver using PCG, pre&#45;conditioner is block Jacobi " alt="" coords="239,267,391,308"/>
+<area shape="rect" id="node3" href="$classg2o_1_1LinearSolverCholmod.html" title="basic solver for Ax = b which has to reimplemented for different linear algebra libraries ..." alt="" coords="451,39,625,80"/>
+<area shape="rect" id="node4" href="$classg2o_1_1LinearSolverCSparse.html" title="linear solver which uses CSparse " alt="" coords="451,104,625,145"/>
+<area shape="rect" id="node9" href="$classg2o_1_1LinearSolverCholmodOnlineInterface.html" title="generic interface for the online solver " alt="" coords="5,5,180,47"/>
+</map>

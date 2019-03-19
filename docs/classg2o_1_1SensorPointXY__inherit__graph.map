@@ -1,0 +1,5 @@
+<map id="g2o::SensorPointXY" name="g2o::SensorPointXY">
+<area shape="rect" id="node2" href="$classg2o_1_1PointSensorParameters.html" title="g2o::PointSensorParameters" alt="" coords="178,5,367,32"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BinarySensor.html" title="g2o::BinarySensor\&lt;\l Robot2D, EdgeSE2PointXY,\l WorldObjectPointXY \&gt;" alt="" coords="176,56,369,112"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BaseSensor.html" title="g2o::BaseSensor" alt="" coords="5,71,128,97"/>
+</map>

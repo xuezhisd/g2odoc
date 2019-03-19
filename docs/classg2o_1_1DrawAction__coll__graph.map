@@ -1,0 +1,8 @@
+<map id="g2o::DrawAction" name="g2o::DrawAction">
+<area shape="rect" id="node2" href="$classg2o_1_1HyperGraphElementAction.html" title="Abstract action that operates on a graph entity. " alt="" coords="5,200,212,227"/>
+<area shape="rect" id="node3" href="$classg2o_1_1Property.html" title="g2o::Property\&lt; T \&gt;" alt="" coords="237,200,369,227"/>
+<area shape="rect" id="node4" href="$classg2o_1_1BaseProperty.html" title="g2o::BaseProperty" alt="" coords="139,103,270,130"/>
+<area shape="rect" id="node6" href="$classg2o_1_1DrawAction_1_1Parameters.html" title="g2o::DrawAction::Parameters" alt="" coords="394,200,589,227"/>
+<area shape="rect" id="node7" href="$structg2o_1_1HyperGraphElementAction_1_1Parameters.html" title="g2o::HyperGraphElementAction\l::Parameters" alt="" coords="369,96,576,137"/>
+<area shape="rect" id="node8" href="$classg2o_1_1PropertyMap.html" title="a collection of properties mapping from name to the property itself " alt="" coords="601,103,726,130"/>
+</map>

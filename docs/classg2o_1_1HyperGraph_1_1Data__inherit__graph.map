@@ -1,0 +1,8 @@
+<map id="g2o::HyperGraph::Data" name="g2o::HyperGraph::Data">
+<area shape="rect" id="node3" href="$classg2o_1_1RobotData.html" title="data recorded by the robot " alt="" coords="151,169,266,196"/>
+<area shape="rect" id="node2" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="109,5,308,47"/>
+<area shape="rect" id="node4" href="$classg2o_1_1RawLaser.html" title="Raw laser measuerement. " alt="" coords="9,244,120,271"/>
+<area shape="rect" id="node6" href="$classg2o_1_1VertexEllipse.html" title="string ellipse to be attached to a vertex " alt="" coords="145,244,273,271"/>
+<area shape="rect" id="node7" href="$classg2o_1_1VertexTag.html" title="string tag to be attached to a vertex " alt="" coords="297,244,408,271"/>
+<area shape="rect" id="node5" href="$classg2o_1_1RobotLaser.html" title="laser measurement obtained by a robot " alt="" coords="5,319,124,345"/>
+</map>

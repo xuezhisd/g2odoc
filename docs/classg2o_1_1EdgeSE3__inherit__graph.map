@@ -1,0 +1,11 @@
+<map id="g2o::EdgeSE3" name="g2o::EdgeSE3">
+<area shape="rect" id="node8" href="$classg2o_1_1EdgeSE3Euler.html" title="3D edge between two VertexSE3, uses the euler angle parameterization for the read/write functions onl..." alt="" coords="5,512,141,539"/>
+<area shape="rect" id="node9" href="$classg2o_1_1EdgeSE3Offset.html" title="Offset edge. " alt="" coords="165,512,307,539"/>
+<area shape="rect" id="node10" href="$classg2o_1_1OnlineEdgeSE3.html" title="g2o::OnlineEdgeSE3" alt="" coords="331,512,474,539"/>
+<area shape="rect" id="node2" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 6, Isometry3D, VertexSE3,\l VertexSE3 \&gt;" alt="" coords="140,333,332,389"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Isometry3D \&gt;" alt="" coords="125,259,347,285"/>
+<area shape="rect" id="node4" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="159,169,313,211"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph_1_1Edge.html" title="g2o::HyperGraph::Edge" alt="" coords="51,95,210,121"/>
+<area shape="rect" id="node6" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="31,5,230,47"/>
+<area shape="rect" id="node7" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="235,95,448,121"/>
+</map>

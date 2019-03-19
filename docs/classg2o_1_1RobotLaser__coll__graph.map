@@ -1,0 +1,9 @@
+<map id="g2o::RobotLaser" name="g2o::RobotLaser">
+<area shape="rect" id="node2" href="$classg2o_1_1RawLaser.html" title="Raw laser measuerement. " alt="" coords="399,275,510,301"/>
+<area shape="rect" id="node3" href="$classg2o_1_1RobotData.html" title="data recorded by the robot " alt="" coords="5,185,120,212"/>
+<area shape="rect" id="node4" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="48,96,205,123"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="144,185,357,212"/>
+<area shape="rect" id="node5" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="27,5,226,47"/>
+<area shape="rect" id="node7" href="$structg2o_1_1LaserParameters.html" title="parameters for a 2D range finder " alt="" coords="382,185,533,212"/>
+<area shape="rect" id="node8" href="$classg2o_1_1SE2.html" title="represent SE2 " alt="" coords="483,96,559,123"/>
+</map>

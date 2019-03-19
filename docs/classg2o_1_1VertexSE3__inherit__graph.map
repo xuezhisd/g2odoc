@@ -1,0 +1,10 @@
+<map id="g2o::VertexSE3" name="g2o::VertexSE3">
+<area shape="rect" id="node7" href="$classg2o_1_1OnlineVertexSE3.html" title="g2o::OnlineVertexSE3" alt="" coords="5,423,156,449"/>
+<area shape="rect" id="node8" href="$classg2o_1_1VertexSCam.html" title="Stereo camera vertex, derived from SE3 class. Note that we use the actual pose of the vertex as its p..." alt="" coords="180,423,307,449"/>
+<area shape="rect" id="node9" href="$classg2o_1_1VertexSE3Euler.html" title="3D pose Vertex, (x,y,z,roll,pitch,yaw) the internal parameterization is the same as veretx_se3_quat..." alt="" coords="331,423,475,449"/>
+<area shape="rect" id="node2" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 6,\l Isometry3D \&gt;" alt="" coords="172,259,315,300"/>
+<area shape="rect" id="node3" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="166,169,321,211"/>
+<area shape="rect" id="node4" href="$classg2o_1_1HyperGraph_1_1Vertex.html" title="abstract Vertex, your types must derive from that one " alt="" coords="53,95,220,121"/>
+<area shape="rect" id="node5" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="37,5,236,47"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="245,95,458,121"/>
+</map>

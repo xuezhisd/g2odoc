@@ -1,0 +1,18 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/core/estimate_propagator.cpp" name="/home/xuezhisd/CLionProjects/g2o/g2o/core/estimate_propagator.cpp">
+<area shape="rect" id="node2" href="$estimate__propagator_8h.html" title="estimate_propagator.h" alt="" coords="1475,95,1626,121"/>
+<area shape="rect" id="node3" href="$optimizable__graph_8h.html" title="optimizable_graph.h" alt="" coords="1748,244,1886,271"/>
+<area shape="rect" id="node19" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="1268,483,1379,509"/>
+<area shape="rect" id="node29" href="$sparse__optimizer_8h.html" title="sparse_optimizer.h" alt="" coords="1360,169,1492,196"/>
+<area shape="rect" id="node10" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="1844,401,1966,427"/>
+<area shape="rect" id="node13" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="1990,401,2094,427"/>
+<area shape="rect" id="node20" href="$parameter_8h.html" title="parameter.h" alt="" coords="2018,319,2109,345"/>
+<area shape="rect" id="node22" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="2196,319,2347,345"/>
+<area shape="rect" id="node24" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="1742,319,1892,345"/>
+<area shape="rect" id="node27" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="1361,319,1492,345"/>
+<area shape="rect" id="node30" href="$sparse__block__matrix_8h.html" title="sparse_block_matrix.h" alt="" coords="534,319,687,345"/>
+<area shape="rect" id="node37" href="$batch__stats_8h.html" title="batch_stats.h" alt="" coords="1134,319,1236,345"/>
+<area shape="rect" id="node33" href="$sparse__block__matrix__ccs_8h.html" title="sparse_block_matrix\l_ccs.h" alt="" coords="218,393,360,435"/>
+<area shape="rect" id="node34" href="$matrix__operations_8h.html" title="matrix_operations.h" alt="" coords="65,483,201,509"/>
+<area shape="rect" id="node35" href="$matrix__structure_8h.html" title="matrix_structure.h" alt="" coords="770,401,896,427"/>
+<area shape="rect" id="node36" href="$sparse__block__matrix_8hpp.html" title="sparse_block_matrix.hpp" alt="" coords="527,401,694,427"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="g2o::HyperDijkstra::TreeAction" name="g2o::HyperDijkstra::TreeAction">
+<area shape="rect" id="node2" href="$structg2o_1_1BackBoneTreeAction.html" title="g2o::BackBoneTreeAction" alt="" coords="5,95,180,121"/>
+<area shape="rect" id="node3" href="$classg2o_1_1ThetaTreeAction.html" title="compute the initial guess of theta while travelling along the MST " alt="" coords="205,95,351,121"/>
+</map>

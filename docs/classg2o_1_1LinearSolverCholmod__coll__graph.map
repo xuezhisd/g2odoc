@@ -1,0 +1,6 @@
+<map id="g2o::LinearSolverCholmod&lt; MatrixType &gt;" name="g2o::LinearSolverCholmod&lt; MatrixType &gt;">
+<area shape="rect" id="node2" href="$classg2o_1_1LinearSolverCCS.html" title="Solver with faster iterating structure for the linear matrix. " alt="" coords="5,96,157,137"/>
+<area shape="rect" id="node3" href="$classg2o_1_1LinearSolver.html" title="basic solver for Ax = b " alt="" coords="16,5,147,47"/>
+<area shape="rect" id="node4" href="$structg2o_1_1CholmodExt.html" title="Our extension of the CHOLMOD matrix struct. " alt="" coords="181,103,304,130"/>
+<area shape="rect" id="node6" href="$classg2o_1_1MatrixStructure.html" title="representing the structure of a matrix in column compressed structure (only the upper triangular part..." alt="" coords="329,103,469,130"/>
+</map>

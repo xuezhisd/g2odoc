@@ -1,0 +1,37 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam2d_addons/types_slam2d_addons.cpp" name="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam2d_addons/types_slam2d_addons.cpp">
+<area shape="rect" id="node2" href="$types__slam2d__addons_8h.html" title="types_slam2d_addons.h" alt="" coords="2728,109,2891,136"/>
+<area shape="rect" id="node20" href="$macros_8h.html" title="g2o/stuff/macros.h" alt="" coords="2025,616,2156,643"/>
+<area shape="rect" id="node50" href="$factory_8h.html" title="g2o/core/factory.h" alt="" coords="2750,459,2877,486"/>
+<area shape="rect" id="node4" href="$types__slam2d_8h.html" title="g2o/types/slam2d/types\l_slam2d.h" alt="" coords="1217,184,1378,225"/>
+<area shape="rect" id="node41" href="$edge__se2__segment2d_8h.html" title="edge_se2_segment2d.h" alt="" coords="2339,281,2499,307"/>
+<area shape="rect" id="node44" href="$edge__se2__segment2d__line_8h.html" title="edge_se2_segment2d\l_line.h" alt="" coords="2523,273,2672,315"/>
+<area shape="rect" id="node45" href="$edge__se2__segment2d__pointLine_8h.html" title="edge_se2_segment2d\l_pointLine.h" alt="" coords="2696,273,2845,315"/>
+<area shape="rect" id="node46" href="$edge__se2__line2d_8h.html" title="edge_se2_line2d.h" alt="" coords="2796,191,2927,218"/>
+<area shape="rect" id="node48" href="$edge__line2d__pointxy_8h.html" title="edge_line2d_pointxy.h" alt="" coords="2951,191,3102,218"/>
+<area shape="rect" id="node49" href="$edge__line2d_8h.html" title="edge_line2d.h" alt="" coords="3126,191,3229,218"/>
+<area shape="rect" id="node5" href="$types_2slam2d_2vertex__se2_8h.html" title="vertex_se2.h" alt="" coords="1617,370,1714,397"/>
+<area shape="rect" id="node27" href="$types_2slam2d_2vertex__point__xy_8h.html" title="vertex_point_xy.h" alt="" coords="1067,370,1192,397"/>
+<area shape="rect" id="node28" href="$types_2slam2d_2parameter__se2__offset_8h.html" title="parameter_se2_offset.h" alt="" coords="2417,370,2575,397"/>
+<area shape="rect" id="node29" href="$edge__se2__prior_8h.html" title="edge_se2_prior.h" alt="" coords="1634,281,1755,307"/>
+<area shape="rect" id="node30" href="$edge__se2__xyprior_8h.html" title="edge_se2_xyprior.h" alt="" coords="1310,281,1445,307"/>
+<area shape="rect" id="node31" href="$types_2slam2d_2edge__se2_8h.html" title="edge_se2.h" alt="" coords="1469,281,1558,307"/>
+<area shape="rect" id="node33" href="$types_2slam2d_2edge__se2__pointxy_8h.html" title="edge_se2_pointxy.h" alt="" coords="1147,281,1285,307"/>
+<area shape="rect" id="node34" href="$edge__se2__pointxy__bearing_8h.html" title="edge_se2_pointxy_bearing.h" alt="" coords="936,281,1123,307"/>
+<area shape="rect" id="node35" href="$edge__se2__pointxy__calib_8h.html" title="edge_se2_pointxy_calib.h" alt="" coords="689,281,861,307"/>
+<area shape="rect" id="node36" href="$edge__se2__offset_8h.html" title="edge_se2_offset.h" alt="" coords="1779,281,1909,307"/>
+<area shape="rect" id="node37" href="$edge__se2__pointxy__offset_8h.html" title="edge_se2_pointxy_offset.h" alt="" coords="1933,281,2112,307"/>
+<area shape="rect" id="node38" href="$edge__pointxy_8h.html" title="edge_pointxy.h" alt="" coords="554,281,665,307"/>
+<area shape="rect" id="node39" href="$edge__se2__twopointsxy_8h.html" title="edge_se2_twopointsxy.h" alt="" coords="145,281,311,307"/>
+<area shape="rect" id="node40" href="$edge__se2__lotsofxy_8h.html" title="edge_se2_lotsofxy.h" alt="" coords="387,281,530,307"/>
+<area shape="rect" id="node6" href="$base__vertex_8h.html" title="g2o/core/base_vertex.h" alt="" coords="2047,459,2206,486"/>
+<area shape="rect" id="node22" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="2249,452,2396,493"/>
+<area shape="rect" id="node24" href="$types_2slam2d_2se2_8h.html" title="se2.h" alt="" coords="2469,459,2523,486"/>
+<area shape="rect" id="node7" href="$creators_8h.html" title="creators.h" alt="" coords="2407,541,2487,568"/>
+<area shape="rect" id="node8" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="2396,616,2500,643"/>
+<area shape="rect" id="node17" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="2137,691,2247,717"/>
+<area shape="rect" id="node25" href="$misc_8h.html" title="some general case utility functions " alt="" coords="2562,541,2678,568"/>
+<area shape="rect" id="node32" href="$base__binary__edge_8h.html" title="g2o/core/base_binary\l_edge.h" alt="" coords="1739,363,1885,404"/>
+<area shape="rect" id="node42" href="$vertex__segment2d_8h.html" title="vertex_segment2d.h" alt="" coords="2253,370,2393,397"/>
+<area shape="rect" id="node43" href="$g2o__types__slam2d__addons__api_8h.html" title="g2o_types_slam2d_addons\l_api.h" alt="" coords="3003,452,3183,493"/>
+<area shape="rect" id="node47" href="$vertex__line2d_8h.html" title="vertex_line2d.h" alt="" coords="2971,281,3082,307"/>
+</map>

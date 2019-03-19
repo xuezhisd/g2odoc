@@ -1,0 +1,14 @@
+<map id="VertexPosition3D" name="VertexPosition3D">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseVertex.html" title="g2o::BaseVertex\&lt; 3,\l Eigen::Vector3d \&gt;" alt="" coords="1377,154,1520,195"/>
+<area shape="rect" id="node3" href="$classg2o_1_1OptimizableGraph_1_1Vertex.html" title="A general case Vertex for optimization. " alt="" coords="1050,110,1205,151"/>
+<area shape="rect" id="node8" href="$classg2o_1_1CacheContainer.html" title="g2o::CacheContainer" alt="" coords="1376,72,1521,99"/>
+<area shape="rect" id="node4" href="$classg2o_1_1HyperGraph_1_1Vertex.html" title="abstract Vertex, your types must derive from that one " alt="" coords="447,5,613,32"/>
+<area shape="rect" id="node5" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,13,204,54"/>
+<area shape="rect" id="node7" href="$classg2o_1_1HyperGraph_1_1Data.html" title="data packet for a vertex. Extend this class to store in the vertices the potential additional informa..." alt="" coords="259,87,417,113"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="637,89,851,116"/>
+<area shape="rect" id="node10" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="667,140,821,167"/>
+<area shape="rect" id="node11" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="277,137,399,164"/>
+<area shape="rect" id="node12" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="253,188,423,215"/>
+<area shape="rect" id="node13" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="255,239,421,265"/>
+<area shape="rect" id="node15" href="$classg2o_1_1OpenMPMutex.html" title="g2o::OpenMPMutex" alt="" coords="675,191,813,217"/>
+</map>

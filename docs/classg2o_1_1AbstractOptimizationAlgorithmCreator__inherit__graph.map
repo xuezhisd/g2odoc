@@ -1,0 +1,9 @@
+<map id="g2o::AbstractOptimizationAlgorithmCreator" name="g2o::AbstractOptimizationAlgorithmCreator">
+<area shape="rect" id="node2" href="$classg2o_1_1CholmodSolverCreator.html" title="g2o::CholmodSolverCreator" alt="" coords="245,5,427,32"/>
+<area shape="rect" id="node3" href="$classg2o_1_1CSparseSolverCreator.html" title="g2o::CSparseSolverCreator" alt="" coords="245,56,427,83"/>
+<area shape="rect" id="node4" href="$classg2o_1_1DenseSolverCreator.html" title="g2o::DenseSolverCreator" alt="" coords="251,107,421,133"/>
+<area shape="rect" id="node5" href="$classg2o_1_1EigenSolverCreator.html" title="g2o::EigenSolverCreator" alt="" coords="254,157,418,184"/>
+<area shape="rect" id="node6" href="$classg2o_1_1PCGSolverCreator.html" title="g2o::PCGSolverCreator" alt="" coords="256,208,416,235"/>
+<area shape="rect" id="node7" href="$classg2o_1_1SLAM2DLinearSolverCreator.html" title="g2o::SLAM2DLinearSolverCreator" alt="" coords="227,259,445,285"/>
+<area shape="rect" id="node8" href="$classg2o_1_1StructureOnlyCreator.html" title="g2o::StructureOnlyCreator" alt="" coords="249,309,423,336"/>
+</map>

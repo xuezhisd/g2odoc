@@ -1,0 +1,8 @@
+<map id="TargetOdometry3DEdge" name="TargetOdometry3DEdge">
+<area shape="rect" id="node2" href="$classg2o_1_1BaseBinaryEdge.html" title="g2o::BaseBinaryEdge\l\&lt; 6, Eigen::Vector3d,\l VertexPositionVelocity3D,\l VertexPositionVelocity3D \&gt;" alt="" coords="939,16,1125,87"/>
+<area shape="rect" id="node3" href="$classg2o_1_1BaseEdge.html" title="g2o::BaseEdge\&lt; D, Eigen\l::Vector3d \&gt;" alt="" coords="716,31,891,72"/>
+<area shape="rect" id="node4" href="$classg2o_1_1OptimizableGraph_1_1Edge.html" title="g2o::OptimizableGraph\l::Edge" alt="" coords="513,31,668,72"/>
+<area shape="rect" id="node5" href="$classg2o_1_1HyperGraph_1_1Edge.html" title="g2o::HyperGraph::Edge" alt="" coords="279,13,438,39"/>
+<area shape="rect" id="node6" href="$structg2o_1_1HyperGraph_1_1HyperGraphElement.html" title="g2o::HyperGraph::HyperGraph\lElement" alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node7" href="$classg2o_1_1HyperGraph_1_1DataContainer.html" title="Container class that implements an interface for adding/removing Data elements in a linked list..." alt="" coords="252,63,465,90"/>
+</map>

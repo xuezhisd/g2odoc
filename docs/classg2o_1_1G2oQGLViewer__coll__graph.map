@@ -1,0 +1,12 @@
+<map id="g2o::G2oQGLViewer" name="g2o::G2oQGLViewer">
+<area shape="rect" id="node3" href="$classg2o_1_1HyperGraphElementAction.html" title="Abstract action that operates on a graph entity. " alt="" coords="841,56,1048,83"/>
+<area shape="rect" id="node4" href="$classg2o_1_1SparseOptimizer.html" title="g2o::SparseOptimizer" alt="" coords="871,239,1019,265"/>
+<area shape="rect" id="node10" href="$classg2o_1_1OptimizationAlgorithm.html" title="Generic interface for a non&#45;linear solver operating on a graph. " alt="" coords="1240,239,1419,265"/>
+<area shape="rect" id="node5" href="$structg2o_1_1OptimizableGraph.html" title="g2o::OptimizableGraph" alt="" coords="611,243,766,269"/>
+<area shape="rect" id="node6" href="$classg2o_1_1HyperGraph.html" title="g2o::HyperGraph" alt="" coords="267,296,388,323"/>
+<area shape="rect" id="node7" href="$classg2o_1_1JacobianWorkspace.html" title="provide memory workspace for computing the Jacobians " alt="" coords="243,195,412,221"/>
+<area shape="rect" id="node8" href="$classg2o_1_1ParameterContainer.html" title="map id to parameters " alt="" coords="244,245,411,272"/>
+<area shape="rect" id="node11" href="$classg2o_1_1PropertyMap.html" title="a collection of properties mapping from name to the property itself " alt="" coords="626,137,751,164"/>
+<area shape="rect" id="node13" href="$classg2o_1_1DrawAction_1_1Parameters.html" title="g2o::DrawAction::Parameters" alt="" coords="847,107,1042,133"/>
+<area shape="rect" id="node14" href="$structg2o_1_1HyperGraphElementAction_1_1Parameters.html" title="g2o::HyperGraphElementAction\l::Parameters" alt="" coords="585,71,792,113"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam3d/parameter_stereo_camera.h" name="/home/xuezhisd/CLionProjects/g2o/g2o/types/slam3d/parameter_stereo_camera.h">
+<area shape="rect" id="node2" href="$hyper__graph__action_8h.html" title="g2o/core/hyper_graph\l_action.h" alt="" coords="610,333,757,375"/>
+<area shape="rect" id="node25" href="$slam3d_2parameter__camera_8h.html" title="parameter_camera.h" alt="" coords="830,109,971,136"/>
+<area shape="rect" id="node37" href="$g2o__types__slam3d__api_8h.html" title="g2o_types_slam3d_api.h" alt="" coords="989,259,1156,285"/>
+<area shape="rect" id="node3" href="$hyper__graph_8h.html" title="hyper_graph.h" alt="" coords="1382,497,1486,524"/>
+<area shape="rect" id="node12" href="$g2o__core__api_8h.html" title="g2o_core_api.h" alt="" coords="937,572,1048,599"/>
+<area shape="rect" id="node14" href="$property_8h.html" title="g2o/stuff/property.h" alt="" coords="196,423,331,449"/>
+<area shape="rect" id="node17" href="$string__tools_8h.html" title="string_tools.h" alt="" coords="169,497,269,524"/>
+<area shape="rect" id="node21" href="$g2o__stuff__api_8h.html" title="g2o_stuff_api.h" alt="" coords="372,572,483,599"/>
+<area shape="rect" id="node19" href="$macros_8h.html" title="macros.h" alt="" coords="272,572,348,599"/>
+<area shape="rect" id="node26" href="$slam3d_2parameter__se3__offset_8h.html" title="parameter_se3_offset.h" alt="" coords="821,184,980,211"/>
+<area shape="rect" id="node27" href="$optimizable__graph_8h.html" title="g2o/core/optimizable\l_graph.h" alt="" coords="1140,333,1283,375"/>
+<area shape="rect" id="node36" href="$cache_8h.html" title="g2o/core/cache.h" alt="" coords="474,259,597,285"/>
+<area shape="rect" id="node30" href="$openmp__mutex_8h.html" title="openmp_mutex.h" alt="" coords="1939,497,2062,524"/>
+<area shape="rect" id="node31" href="$parameter_8h.html" title="parameter.h" alt="" coords="1166,423,1257,449"/>
+<area shape="rect" id="node32" href="$parameter__container_8h.html" title="parameter_container.h" alt="" coords="889,423,1040,449"/>
+<area shape="rect" id="node33" href="$jacobian__workspace_8h.html" title="jacobian_workspace.h" alt="" coords="1629,423,1780,449"/>
+</map>

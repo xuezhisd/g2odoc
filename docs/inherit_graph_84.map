@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classg2o_1_1RobustKernel.html" title="base for all robust cost functions " alt="" coords="5,249,136,276"/>
+<area shape="rect" id="node2" href="$classg2o_1_1RobustKernelCauchy.html" title="Cauchy cost function. " alt="" coords="201,5,376,32"/>
+<area shape="rect" id="node3" href="$classg2o_1_1RobustKernelDCS.html" title="Dynamic covariance scaling &#45; DCS. " alt="" coords="209,56,368,83"/>
+<area shape="rect" id="node4" href="$classg2o_1_1RobustKernelFair.html" title="Fair cost function. " alt="" coords="213,107,365,133"/>
+<area shape="rect" id="node5" href="$classg2o_1_1RobustKernelGemanMcClure.html" title="Geman&#45;McClure cost function. " alt="" coords="193,158,384,199"/>
+<area shape="rect" id="node6" href="$classg2o_1_1RobustKernelHuber.html" title="Huber Cost Function. " alt="" coords="206,224,371,251"/>
+<area shape="rect" id="node7" href="$classg2o_1_1RobustKernelPseudoHuber.html" title="Pseudo Huber Cost Function. " alt="" coords="184,275,393,301"/>
+<area shape="rect" id="node8" href="$classg2o_1_1RobustKernelSaturated.html" title="Saturated cost function. " alt="" coords="195,325,382,352"/>
+<area shape="rect" id="node9" href="$classg2o_1_1RobustKernelScaleDelta.html" title="scale a robust kernel to another delta (window size) " alt="" coords="191,376,386,403"/>
+<area shape="rect" id="node10" href="$classg2o_1_1RobustKernelTukey.html" title="Tukey Cost Function. " alt="" coords="205,427,372,453"/>
+<area shape="rect" id="node11" href="$classg2o_1_1RobustKernelWelsch.html" title="Welsch cost function. " alt="" coords="201,477,376,504"/>
+</map>
